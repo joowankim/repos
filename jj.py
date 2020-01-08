@@ -45,24 +45,9 @@ with open(ingredient_data, 'r', encoding='utf-8') as ingredients, open(item_data
     thumbs = []
 
     for (i, fields) in enumerate(item_data):
-        full_size += [{
-            "model": "item.images",
-            "fields": {
-                "id": i,
-                "imgUrl": "https://grepp-programmers-challenges.s3.ap-northeast-2.amazonaws.com/2020-birdview/image/" + fields["imageId"]
-            }
-        }]
-        thumbs += [{
-            "model": "item.thumbs",
-            "fields": {
-                "id": i,
-                "imgUrl": "https://grepp-programmers-challenges.s3.ap-northeast-2.amazonaws.com/2020-birdview/thumbnail/" +
-                          fields["imageId"]
-            }
-        }]
         fields["ingredient_ids"] = list(map(name_to_idx, fields["ingredients"].split(',')))
-        fields["image"] = i
-        fields["thumb"] = i
+        fields["image"] = "https://grepp-programmers-challenges.s3.ap-northeast-2.amazonaws.com/2020-birdview/image/" + fields["imageId"]
+        fields["thumb"] = "https://grepp-programmers-challenges.s3.ap-northeast-2.amazonaws.com/2020-birdview/thumbnail/" + fields["imageId"]
         oily, dry, sensitive = 0, 0, 0
         for ingredient in fields["ingredient_ids"]:
             oily += ingredient_output[ingredient]["fields"]["oily"]
@@ -77,7 +62,3 @@ with open(ingredient_data, 'r', encoding='utf-8') as ingredients, open(item_data
         }]
     with open(URL + "item-data-refined.json", 'w', encoding='utf-8') as out:
         json.dump(item_output, out, ensure_ascii=False, indent='\t')
-    with open(URL + "image.json", 'w', encoding='utf-8') as out:
-        json.dump(full_size, out, ensure_ascii=False, indent='\t')
-    with open(URL + "thumb.json", 'w', encoding='utf-8') as out:
-        json.dump(thumbs, out, ensure_ascii=False, indent='\t')

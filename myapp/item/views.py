@@ -3,7 +3,8 @@ from rest_framework import status
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 
-# from .models import Ingredient, Item, Included
+from .models import Ingredient, Item, Included
+from .serializers import ProductsSerializer
 # from .serializers import IngredientSerializer, ItemSerializer, IncludedSerializer
 #
 # @api_view(['GET', 'POST'])
@@ -47,3 +48,18 @@ from rest_framework.response import Response
 #     elif request.method == 'DELETE':
 #         ingredient.delete()
 #         return Response(status=status.HTTP_204_NO_CONTENT)
+
+@api_view(['GET', 'POST'])
+def products_list(request):
+    if request.method == 'GET':
+        queryset = Item.objects.all()
+        # print(queryset.query)
+        serializer = ProductsSerializer(queryset, many=True)
+        return Response(serializer.data)
+
+@api_view(['GET', 'POST'])
+def product_detail(request):
+    if request.method == 'GET':
+        queryset = Item.object.all()
+        serializer = ProductsSerializer(queryset, many=True)
+        return Response(serializer.data)
