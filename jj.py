@@ -43,7 +43,15 @@ with open(ingredient_data, 'r', encoding='utf-8') as ingredients, open(item_data
         return in_idcs[name]
 
     for fields in item_data:
-        fields["ingredients"] = list(map(name_to_idx, fields["ingredients"].split(',')))
+        fields["ingredient_ids"] = list(map(name_to_idx, fields["ingredients"].split(',')))
+        oily, dry, sensitive = 0, 0, 0
+        for ingredient in fields["ingredient_ids"]:
+            oily += ingredient_output[ingredient]["fields"]["oily"]
+            dry += ingredient_output[ingredient]["fields"]["dry"]
+            sensitive += ingredient_output[ingredient]["fields"]["sensitive"]
+        fields["oily"] = oily
+        fields["dry"] = dry
+        fields["sensitive"] = sensitive
         item_output += [{
             "model": "item.item",
             "fields": fields
