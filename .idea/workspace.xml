@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a888536-b32d-4337-8bb4-d7aa8a72de18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/item/fixtures/image.json" beforeDir="false" afterPath="$PROJECT_DIR$/image.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/item/fixtures/ingredient-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/ingredient-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/item/fixtures/item-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/item-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/item/fixtures/items-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/items-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/item/fixtures/thumb.json" beforeDir="false" afterPath="$PROJECT_DIR$/thumb.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,15 +23,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
               <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jj.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="950">
-              <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -93,11 +90,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" column="52" lean-forward="true" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -147,6 +153,7 @@
         <option value="$PROJECT_DIR$/myapp/item/views.py" />
         <option value="$PROJECT_DIR$/myapp/urls.py" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -215,11 +222,12 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Samsung\Documents\GitHub\django-template-master" />
+      <recent name="C:\Users\Samsung\Desktop\개인연습\c4a40601d355ad0b9f4c835ad0274ae47be8e961d9d12db9cca5402941ffd24d\django-template-master\myapp\item" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Samsung\Desktop\개인연습\c4a40601d355ad0b9f4c835ad0274ae47be8e961d9d12db9cca5402941ffd24d\django-template-master\myapp\item\migrations" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Samsung\Desktop\개인연습\c4a40601d355ad0b9f4c835ad0274ae47be8e961d9d12db9cca5402941ffd24d\django-template-master\myapp\item" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -406,7 +414,14 @@
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" column="52" lean-forward="true" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
         </state>
       </provider>
     </entry>

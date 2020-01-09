@@ -2,3 +2,9 @@ env
 *.DS_Store
 *.pyc
 __pycache__
+image.json
+ingredient-data.json
+item-data.json
+items-data.json
+jj.py
+thumb.json
