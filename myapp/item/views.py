@@ -88,7 +88,7 @@ def product_detail(request, id):
     if request.method == 'GET':
         skin_type = request.GET.get('skin_type')
         product_detail = Item.objects.get(id=id)
-        recomms = Item.objects.all().order_by('-'+skin_type, 'price')[:3]
+        recomms = Item.objects.filter(category=product_detail.category).order_by('-'+skin_type, 'price')[:3]
 
         product_serializer = ProductDetailSerializer(product_detail)
         recomms_serializer = RecommProductsSerializer(recomms, many=True)
