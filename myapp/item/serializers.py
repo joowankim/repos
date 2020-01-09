@@ -31,3 +31,19 @@ class ProductsSerializer(serializers.ModelSerializer):
         fields = ('id', 'imgUrl', 'name', 'price', 'ingredients', 'monthlySales')
     def get_imgUrl(self, obj):
         return obj.image
+
+class ProductDetailSerializer(serializers.ModelSerializer):
+    imgUrl = serializers.SerializerMethodField('get_imgUrl')
+    class Meta:
+        model = Item
+        fields = ('id', 'imgUrl', 'name', 'price', 'gender', 'category', 'ingredients', 'monthlySales')
+    def get_imgUrl(self, obj):
+        return obj.image
+
+class RecommProductsSerializer(serializers.ModelSerializer):
+    imgUrl = serializers.SerializerMethodField('get_imgUrl')
+    class Meta:
+        model = Item
+        fields = ('id', 'imgUrl', 'name', 'price')
+    def get_imgUrl(self, obj):
+        return obj.thumb
