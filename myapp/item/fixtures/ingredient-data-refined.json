@@ -2,7 +2,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 0,
 			"name": "foundation",
 			"oily": 0,
 			"dry": 0,
@@ -12,7 +11,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 1,
 			"name": "jurisdiction",
 			"oily": -1,
 			"dry": -1,
@@ -22,7 +20,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 2,
 			"name": "reproduce",
 			"oily": 1,
 			"dry": 0,
@@ -32,7 +29,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 3,
 			"name": "potential",
 			"oily": -1,
 			"dry": 1,
@@ -42,7 +38,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 4,
 			"name": "population",
 			"oily": 0,
 			"dry": 0,
@@ -52,7 +47,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 5,
 			"name": "parameter",
 			"oily": 0,
 			"dry": 0,
@@ -62,7 +56,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 6,
 			"name": "radiation",
 			"oily": -1,
 			"dry": 1,
@@ -72,7 +65,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 7,
 			"name": "machinery",
 			"oily": 1,
 			"dry": 1,
@@ -82,7 +74,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 8,
 			"name": "possibility",
 			"oily": 0,
 			"dry": 1,
@@ -92,7 +83,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 9,
 			"name": "instruction",
 			"oily": -1,
 			"dry": 1,
@@ -102,7 +92,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 10,
 			"name": "radiation sickness",
 			"oily": 0,
 			"dry": 0,
@@ -112,7 +101,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 11,
 			"name": "houseplant",
 			"oily": -1,
 			"dry": -1,
@@ -122,7 +110,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 12,
 			"name": "egg white",
 			"oily": 0,
 			"dry": 0,
@@ -132,7 +119,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 13,
 			"name": "photograph",
 			"oily": 0,
 			"dry": -1,
@@ -142,7 +128,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 14,
 			"name": "responsibility",
 			"oily": 0,
 			"dry": 0,
@@ -152,7 +137,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 15,
 			"name": "credibility",
 			"oily": -1,
 			"dry": 0,
@@ -162,7 +146,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 16,
 			"name": "replacement",
 			"oily": 0,
 			"dry": 1,
@@ -172,7 +155,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 17,
 			"name": "sentiment",
 			"oily": 1,
 			"dry": 1,
@@ -182,7 +164,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 18,
 			"name": "neighbour",
 			"oily": 0,
 			"dry": -1,
@@ -192,7 +173,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 19,
 			"name": "depression",
 			"oily": 1,
 			"dry": 1,
@@ -202,7 +182,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 20,
 			"name": "condition",
 			"oily": 0,
 			"dry": 1,
@@ -212,7 +191,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 21,
 			"name": "reasonable",
 			"oily": 1,
 			"dry": 1,
@@ -222,7 +200,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 22,
 			"name": "disposition",
 			"oily": -1,
 			"dry": 0,
@@ -232,7 +209,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 23,
 			"name": "character",
 			"oily": 1,
 			"dry": 1,
@@ -242,7 +218,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 24,
 			"name": "empirical",
 			"oily": 0,
 			"dry": 1,
@@ -252,7 +227,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 25,
 			"name": "underline",
 			"oily": -1,
 			"dry": -1,
@@ -262,7 +236,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 26,
 			"name": "motorcycle",
 			"oily": -1,
 			"dry": 1,
@@ -272,7 +245,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 27,
 			"name": "legislature",
 			"oily": 0,
 			"dry": -1,
@@ -282,7 +254,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 28,
 			"name": "leftovers",
 			"oily": -1,
 			"dry": 1,
@@ -292,7 +263,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 29,
 			"name": "microphone",
 			"oily": -1,
 			"dry": 1,
@@ -302,7 +272,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 30,
 			"name": "fool around",
 			"oily": 1,
 			"dry": 0,
@@ -312,7 +281,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 31,
 			"name": "basketball",
 			"oily": 1,
 			"dry": 0,
@@ -322,7 +290,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 32,
 			"name": "exception",
 			"oily": 0,
 			"dry": -1,
@@ -332,7 +299,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 33,
 			"name": "photocopy",
 			"oily": 0,
 			"dry": 0,
@@ -342,7 +308,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 34,
 			"name": "connection",
 			"oily": 0,
 			"dry": -1,
@@ -352,7 +317,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 35,
 			"name": "introduction",
 			"oily": 1,
 			"dry": -1,
@@ -362,7 +326,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 36,
 			"name": "interface",
 			"oily": 1,
 			"dry": 1,
@@ -372,7 +335,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 37,
 			"name": "photography",
 			"oily": -1,
 			"dry": 0,
@@ -382,7 +344,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 38,
 			"name": "foreigner",
 			"oily": -1,
 			"dry": 0,
@@ -392,7 +353,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 39,
 			"name": "threshold",
 			"oily": 0,
 			"dry": -1,
@@ -402,7 +362,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 40,
 			"name": "detective",
 			"oily": 1,
 			"dry": 0,
@@ -412,7 +371,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 41,
 			"name": "compliance",
 			"oily": -1,
 			"dry": 1,
@@ -422,7 +380,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 42,
 			"name": "correspond",
 			"oily": -1,
 			"dry": 0,
@@ -432,7 +389,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 43,
 			"name": "absorption",
 			"oily": -1,
 			"dry": 0,
@@ -442,7 +398,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 44,
 			"name": "ice cream",
 			"oily": 1,
 			"dry": 0,
@@ -452,7 +407,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 45,
 			"name": "deprivation",
 			"oily": -1,
 			"dry": 0,
@@ -462,7 +416,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 46,
 			"name": "established",
 			"oily": 1,
 			"dry": 1,
@@ -472,7 +425,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 47,
 			"name": "pollution",
 			"oily": 1,
 			"dry": 0,
@@ -482,7 +434,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 48,
 			"name": "chauvinist",
 			"oily": -1,
 			"dry": 0,
@@ -492,7 +443,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 49,
 			"name": "innovation",
 			"oily": -1,
 			"dry": -1,
@@ -502,7 +452,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 50,
 			"name": "qualified",
 			"oily": 1,
 			"dry": 1,
@@ -512,7 +461,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 51,
 			"name": "color-blind",
 			"oily": -1,
 			"dry": 1,
@@ -522,7 +470,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 52,
 			"name": "provision",
 			"oily": 0,
 			"dry": 1,
@@ -532,7 +479,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 53,
 			"name": "censorship",
 			"oily": 0,
 			"dry": 1,
@@ -542,7 +488,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 54,
 			"name": "pneumonia",
 			"oily": 1,
 			"dry": 1,
@@ -552,7 +497,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 55,
 			"name": "democratic",
 			"oily": 1,
 			"dry": -1,
@@ -562,7 +506,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 56,
 			"name": "landowner",
 			"oily": 1,
 			"dry": -1,
@@ -572,7 +515,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 57,
 			"name": "volunteer",
 			"oily": 0,
 			"dry": 1,
@@ -582,7 +524,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 58,
 			"name": "essential",
 			"oily": -1,
 			"dry": -1,
@@ -592,7 +533,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 59,
 			"name": "distribute",
 			"oily": -1,
 			"dry": -1,
@@ -602,7 +542,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 60,
 			"name": "administration",
 			"oily": -1,
 			"dry": -1,
@@ -612,7 +551,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 61,
 			"name": "transaction",
 			"oily": 0,
 			"dry": 0,
@@ -622,7 +560,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 62,
 			"name": "talkative",
 			"oily": 0,
 			"dry": -1,
@@ -632,7 +569,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 63,
 			"name": "confession",
 			"oily": 1,
 			"dry": 0,
@@ -642,7 +578,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 64,
 			"name": "spokesperson",
 			"oily": 1,
 			"dry": 0,
@@ -652,7 +587,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 65,
 			"name": "crosswalk",
 			"oily": -1,
 			"dry": 1,
@@ -662,7 +596,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 66,
 			"name": "overcharge",
 			"oily": 1,
 			"dry": 1,
@@ -672,7 +605,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 67,
 			"name": "generation",
 			"oily": 0,
 			"dry": 1,
@@ -682,7 +614,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 68,
 			"name": "objective",
 			"oily": -1,
 			"dry": 1,
@@ -692,7 +623,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 69,
 			"name": "prevalence",
 			"oily": -1,
 			"dry": 1,
@@ -702,7 +632,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 70,
 			"name": "operational",
 			"oily": -1,
 			"dry": -1,
@@ -712,7 +641,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 71,
 			"name": "acceptance",
 			"oily": 1,
 			"dry": 1,
@@ -722,7 +650,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 72,
 			"name": "homosexual",
 			"oily": -1,
 			"dry": -1,
@@ -732,7 +659,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 73,
 			"name": "ambiguous",
 			"oily": 0,
 			"dry": -1,
@@ -742,7 +668,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 74,
 			"name": "constraint",
 			"oily": 0,
 			"dry": 0,
@@ -752,7 +677,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 75,
 			"name": "copyright",
 			"oily": -1,
 			"dry": 1,
@@ -762,7 +686,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 76,
 			"name": "negotiation",
 			"oily": 1,
 			"dry": 0,
@@ -772,7 +695,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 77,
 			"name": "directory",
 			"oily": 1,
 			"dry": 1,
@@ -782,7 +704,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 78,
 			"name": "substitute",
 			"oily": 0,
 			"dry": 1,
@@ -792,7 +713,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 79,
 			"name": "environmental",
 			"oily": 1,
 			"dry": 0,
@@ -802,7 +722,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 80,
 			"name": "timetable",
 			"oily": 1,
 			"dry": 0,
@@ -812,7 +731,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 81,
 			"name": "favourite",
 			"oily": -1,
 			"dry": -1,
@@ -822,7 +740,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 82,
 			"name": "firefighter",
 			"oily": -1,
 			"dry": 0,
@@ -832,7 +749,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 83,
 			"name": "monstrous",
 			"oily": -1,
 			"dry": -1,
@@ -842,7 +758,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 84,
 			"name": "redundancy",
 			"oily": 1,
 			"dry": 1,
@@ -852,7 +767,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 85,
 			"name": "cooperative",
 			"oily": 0,
 			"dry": 1,
@@ -862,7 +776,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 86,
 			"name": "production",
 			"oily": 0,
 			"dry": 1,
@@ -872,7 +785,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 87,
 			"name": "confidence",
 			"oily": -1,
 			"dry": 0,
@@ -882,7 +794,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 88,
 			"name": "accompany",
 			"oily": 1,
 			"dry": -1,
@@ -892,7 +803,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 89,
 			"name": "entertain",
 			"oily": 0,
 			"dry": 0,
@@ -902,7 +812,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 90,
 			"name": "ostracize",
 			"oily": 0,
 			"dry": 1,
@@ -912,7 +821,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 91,
 			"name": "mail carrier",
 			"oily": 0,
 			"dry": 1,
@@ -922,7 +830,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 92,
 			"name": "battlefield",
 			"oily": 1,
 			"dry": 0,
@@ -932,7 +839,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 93,
 			"name": "undertake",
 			"oily": -1,
 			"dry": -1,
@@ -942,7 +848,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 94,
 			"name": "earthflax",
 			"oily": 1,
 			"dry": 1,
@@ -952,7 +857,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 95,
 			"name": "bloodshed",
 			"oily": -1,
 			"dry": 0,
@@ -962,7 +866,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 96,
 			"name": "tradition",
 			"oily": 0,
 			"dry": 0,
@@ -972,7 +875,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 97,
 			"name": "laboratory",
 			"oily": -1,
 			"dry": -1,
@@ -982,7 +884,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 98,
 			"name": "modernize",
 			"oily": -1,
 			"dry": 0,
@@ -992,7 +893,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 99,
 			"name": "preparation",
 			"oily": -1,
 			"dry": -1,
@@ -1002,7 +902,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 100,
 			"name": "profession",
 			"oily": -1,
 			"dry": 0,
@@ -1012,7 +911,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 101,
 			"name": "countryside",
 			"oily": -1,
 			"dry": 1,
@@ -1022,7 +920,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 102,
 			"name": "inspiration",
 			"oily": -1,
 			"dry": -1,
@@ -1032,7 +929,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 103,
 			"name": "commitment",
 			"oily": -1,
 			"dry": 1,
@@ -1042,7 +938,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 104,
 			"name": "disturbance",
 			"oily": 1,
 			"dry": 1,
@@ -1052,7 +947,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 105,
 			"name": "breakdown",
 			"oily": -1,
 			"dry": -1,
@@ -1062,7 +956,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 106,
 			"name": "courtship",
 			"oily": 1,
 			"dry": 1,
@@ -1072,7 +965,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 107,
 			"name": "communist",
 			"oily": -1,
 			"dry": -1,
@@ -1082,7 +974,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 108,
 			"name": "partnership",
 			"oily": 1,
 			"dry": 1,
@@ -1092,7 +983,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 109,
 			"name": "circulate",
 			"oily": 1,
 			"dry": -1,
@@ -1102,7 +992,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 110,
 			"name": "conscious",
 			"oily": 0,
 			"dry": 1,
@@ -1112,7 +1001,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 111,
 			"name": "insistence",
 			"oily": 0,
 			"dry": 1,
@@ -1122,7 +1010,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 112,
 			"name": "difficult",
 			"oily": -1,
 			"dry": 0,
@@ -1132,7 +1019,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 113,
 			"name": "progressive",
 			"oily": 1,
 			"dry": 1,
@@ -1142,7 +1028,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 114,
 			"name": "socialist",
 			"oily": 1,
 			"dry": 1,
@@ -1152,7 +1037,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 115,
 			"name": "girlfriend",
 			"oily": 0,
 			"dry": 0,
@@ -1162,7 +1046,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 116,
 			"name": "privilege",
 			"oily": 1,
 			"dry": 1,
@@ -1172,7 +1055,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 117,
 			"name": "conventional",
 			"oily": 0,
 			"dry": 1,
@@ -1182,7 +1064,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 118,
 			"name": "destruction",
 			"oily": 0,
 			"dry": 1,
@@ -1192,7 +1073,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 119,
 			"name": "butterfly",
 			"oily": -1,
 			"dry": 0,
@@ -1202,7 +1082,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 120,
 			"name": "injection",
 			"oily": 1,
 			"dry": -1,
@@ -1212,7 +1091,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 121,
 			"name": "respectable",
 			"oily": -1,
 			"dry": 1,
@@ -1222,7 +1100,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 122,
 			"name": "satisfied",
 			"oily": 0,
 			"dry": 0,
@@ -1232,7 +1109,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 123,
 			"name": "development",
 			"oily": 1,
 			"dry": 0,
@@ -1242,7 +1118,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 124,
 			"name": "conviction",
 			"oily": -1,
 			"dry": 1,
@@ -1252,7 +1127,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 125,
 			"name": "horseshoe",
 			"oily": 1,
 			"dry": -1,
@@ -1262,7 +1136,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 126,
 			"name": "organisation",
 			"oily": 0,
 			"dry": 1,
@@ -1272,7 +1145,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 127,
 			"name": "nomination",
 			"oily": 0,
 			"dry": 1,
@@ -1282,7 +1154,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 128,
 			"name": "deteriorate",
 			"oily": 1,
 			"dry": -1,
@@ -1292,7 +1163,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 129,
 			"name": "relevance",
 			"oily": -1,
 			"dry": 0,
@@ -1302,7 +1172,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 130,
 			"name": "presentation",
 			"oily": 1,
 			"dry": -1,
@@ -1312,7 +1181,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 131,
 			"name": "initiative",
 			"oily": 0,
 			"dry": -1,
@@ -1322,7 +1190,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 132,
 			"name": "formulate",
 			"oily": 1,
 			"dry": 0,
@@ -1332,7 +1199,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 133,
 			"name": "represent",
 			"oily": 1,
 			"dry": -1,
@@ -1342,7 +1208,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 134,
 			"name": "credit card",
 			"oily": -1,
 			"dry": 0,
@@ -1352,7 +1217,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 135,
 			"name": "integrated",
 			"oily": 0,
 			"dry": 0,
@@ -1362,7 +1226,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 136,
 			"name": "fashionable",
 			"oily": 1,
 			"dry": 0,
@@ -1372,7 +1235,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 137,
 			"name": "acquisition",
 			"oily": -1,
 			"dry": 0,
@@ -1382,7 +1244,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 138,
 			"name": "sacrifice",
 			"oily": -1,
 			"dry": 0,
@@ -1392,7 +1253,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 139,
 			"name": "telephone",
 			"oily": -1,
 			"dry": 1,
@@ -1402,7 +1262,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 140,
 			"name": "beautiful",
 			"oily": 1,
 			"dry": 0,
@@ -1412,7 +1271,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 141,
 			"name": "fascinate",
 			"oily": 0,
 			"dry": -1,
@@ -1422,7 +1280,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 142,
 			"name": "chocolate",
 			"oily": -1,
 			"dry": 0,
@@ -1432,7 +1289,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 143,
 			"name": "premature",
 			"oily": -1,
 			"dry": 1,
@@ -1442,7 +1298,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 144,
 			"name": "reproduction",
 			"oily": -1,
 			"dry": 1,
@@ -1452,7 +1307,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 145,
 			"name": "uncertainty",
 			"oily": -1,
 			"dry": 0,
@@ -1462,7 +1316,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 146,
 			"name": "treasurer",
 			"oily": 0,
 			"dry": 1,
@@ -1472,7 +1325,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 147,
 			"name": "conception",
 			"oily": 1,
 			"dry": 0,
@@ -1482,7 +1334,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 148,
 			"name": "temporary",
 			"oily": 0,
 			"dry": 1,
@@ -1492,7 +1343,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 149,
 			"name": "magnitude",
 			"oily": 0,
 			"dry": 0,
@@ -1502,7 +1352,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 150,
 			"name": "separation",
 			"oily": -1,
 			"dry": 1,
@@ -1512,7 +1361,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 151,
 			"name": "settlement",
 			"oily": 0,
 			"dry": -1,
@@ -1522,7 +1370,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 152,
 			"name": "disability",
 			"oily": -1,
 			"dry": 0,
@@ -1532,7 +1379,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 153,
 			"name": "expectation",
 			"oily": -1,
 			"dry": 1,
@@ -1542,7 +1388,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 154,
 			"name": "architecture",
 			"oily": 0,
 			"dry": -1,
@@ -1552,7 +1397,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 155,
 			"name": "civilization",
 			"oily": -1,
 			"dry": 1,
@@ -1562,7 +1406,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 156,
 			"name": "circumstance",
 			"oily": -1,
 			"dry": 0,
@@ -1572,7 +1415,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 157,
 			"name": "transparent",
 			"oily": -1,
 			"dry": 0,
@@ -1582,7 +1424,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 158,
 			"name": "accessible",
 			"oily": 0,
 			"dry": -1,
@@ -1592,7 +1433,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 159,
 			"name": "advertising",
 			"oily": -1,
 			"dry": 0,
@@ -1602,7 +1442,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 160,
 			"name": "comprehensive",
 			"oily": 0,
 			"dry": 1,
@@ -1612,7 +1451,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 161,
 			"name": "background",
 			"oily": -1,
 			"dry": 0,
@@ -1622,7 +1460,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 162,
 			"name": "protection",
 			"oily": 1,
 			"dry": 1,
@@ -1632,7 +1469,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 163,
 			"name": "assertive",
 			"oily": -1,
 			"dry": 1,
@@ -1642,7 +1478,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 164,
 			"name": "articulate",
 			"oily": 0,
 			"dry": -1,
@@ -1652,7 +1487,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 165,
 			"name": "admiration",
 			"oily": 1,
 			"dry": -1,
@@ -1662,7 +1496,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 166,
 			"name": "occupation",
 			"oily": 0,
 			"dry": -1,
@@ -1672,7 +1505,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 167,
 			"name": "nationalism",
 			"oily": -1,
 			"dry": 0,
@@ -1682,7 +1514,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 168,
 			"name": "temptation",
 			"oily": -1,
 			"dry": 1,
@@ -1692,7 +1523,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 169,
 			"name": "presidential",
 			"oily": -1,
 			"dry": -1,
@@ -1702,7 +1532,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 170,
 			"name": "reception",
 			"oily": -1,
 			"dry": 0,
@@ -1712,7 +1541,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 171,
 			"name": "preference",
 			"oily": 0,
 			"dry": 0,
@@ -1722,7 +1550,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 172,
 			"name": "transform",
 			"oily": 1,
 			"dry": -1,
@@ -1732,7 +1559,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 173,
 			"name": "embarrassment",
 			"oily": 0,
 			"dry": 1,
@@ -1742,7 +1568,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 174,
 			"name": "cigarette",
 			"oily": -1,
 			"dry": 1,
@@ -1752,7 +1577,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 175,
 			"name": "government",
 			"oily": 0,
 			"dry": 1,
@@ -1762,7 +1586,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 176,
 			"name": "accumulation",
 			"oily": 0,
 			"dry": -1,
@@ -1772,7 +1595,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 177,
 			"name": "suspicion",
 			"oily": 1,
 			"dry": -1,
@@ -1782,7 +1604,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 178,
 			"name": "commemorate",
 			"oily": -1,
 			"dry": 1,
@@ -1792,7 +1613,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 179,
 			"name": "conservation",
 			"oily": 1,
 			"dry": -1,
@@ -1802,7 +1622,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 180,
 			"name": "important",
 			"oily": 0,
 			"dry": 1,
@@ -1812,7 +1631,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 181,
 			"name": "coalition",
 			"oily": 1,
 			"dry": -1,
@@ -1822,7 +1640,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 182,
 			"name": "mainstream",
 			"oily": 0,
 			"dry": 1,
@@ -1832,7 +1649,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 183,
 			"name": "revolutionary",
 			"oily": 1,
 			"dry": 1,
@@ -1842,7 +1658,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 184,
 			"name": "agriculture",
 			"oily": -1,
 			"dry": 0,
@@ -1852,7 +1667,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 185,
 			"name": "dependence",
 			"oily": 1,
 			"dry": 0,
@@ -1862,7 +1676,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 186,
 			"name": "sculpture",
 			"oily": 1,
 			"dry": 1,
@@ -1872,7 +1685,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 187,
 			"name": "invisible",
 			"oily": 1,
 			"dry": -1,
@@ -1882,7 +1694,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 188,
 			"name": "executive",
 			"oily": 1,
 			"dry": 1,
@@ -1892,7 +1703,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 189,
 			"name": "encourage",
 			"oily": -1,
 			"dry": -1,
@@ -1902,7 +1712,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 190,
 			"name": "cell phone",
 			"oily": 0,
 			"dry": 1,
@@ -1912,7 +1721,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 191,
 			"name": "human body",
 			"oily": 0,
 			"dry": -1,
@@ -1922,7 +1730,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 192,
 			"name": "agreement",
 			"oily": 0,
 			"dry": 1,
@@ -1932,7 +1739,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 193,
 			"name": "opposition",
 			"oily": -1,
 			"dry": 0,
@@ -1942,7 +1748,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 194,
 			"name": "requirement",
 			"oily": -1,
 			"dry": -1,
@@ -1952,7 +1757,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 195,
 			"name": "satisfaction",
 			"oily": -1,
 			"dry": 0,
@@ -1962,7 +1766,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 196,
 			"name": "consideration",
 			"oily": 1,
 			"dry": -1,
@@ -1972,7 +1775,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 197,
 			"name": "avant-garde",
 			"oily": -1,
 			"dry": -1,
@@ -1982,7 +1784,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 198,
 			"name": "unfortunate",
 			"oily": -1,
 			"dry": 1,
@@ -1992,7 +1793,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 199,
 			"name": "paralyzed",
 			"oily": 1,
 			"dry": -1,
@@ -2002,7 +1802,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 200,
 			"name": "charismatic",
 			"oily": 1,
 			"dry": 1,
@@ -2012,7 +1811,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 201,
 			"name": "violation",
 			"oily": 1,
 			"dry": 0,
@@ -2022,7 +1820,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 202,
 			"name": "restaurant",
 			"oily": 1,
 			"dry": -1,
@@ -2032,7 +1829,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 203,
 			"name": "departure",
 			"oily": -1,
 			"dry": -1,
@@ -2042,7 +1838,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 204,
 			"name": "challenge",
 			"oily": 1,
 			"dry": 1,
@@ -2052,7 +1847,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 205,
 			"name": "fastidious",
 			"oily": -1,
 			"dry": 1,
@@ -2062,7 +1856,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 206,
 			"name": "remunerate",
 			"oily": 1,
 			"dry": 1,
@@ -2072,7 +1865,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 207,
 			"name": "distortion",
 			"oily": 1,
 			"dry": 1,
@@ -2082,7 +1874,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 208,
 			"name": "speculate",
 			"oily": 1,
 			"dry": 1,
@@ -2092,7 +1883,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 209,
 			"name": "plaintiff",
 			"oily": 1,
 			"dry": -1,
@@ -2102,7 +1892,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 210,
 			"name": "conversation",
 			"oily": 0,
 			"dry": -1,
@@ -2112,7 +1901,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 211,
 			"name": "computer virus",
 			"oily": 0,
 			"dry": 0,
@@ -2122,7 +1910,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 212,
 			"name": "exhibition",
 			"oily": 0,
 			"dry": -1,
@@ -2132,7 +1919,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 213,
 			"name": "precedent",
 			"oily": 1,
 			"dry": 0,
@@ -2142,7 +1928,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 214,
 			"name": "expression",
 			"oily": 0,
 			"dry": 0,
@@ -2152,7 +1937,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 215,
 			"name": "publication",
 			"oily": -1,
 			"dry": 1,
@@ -2162,7 +1946,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 216,
 			"name": "colleague",
 			"oily": 0,
 			"dry": 1,
@@ -2172,7 +1955,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 217,
 			"name": "strategic",
 			"oily": 0,
 			"dry": -1,
@@ -2182,7 +1964,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 218,
 			"name": "architect",
 			"oily": 1,
 			"dry": 0,
@@ -2192,7 +1973,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 219,
 			"name": "resignation",
 			"oily": 1,
 			"dry": 0,
@@ -2202,7 +1982,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 220,
 			"name": "calculation",
 			"oily": 0,
 			"dry": 1,
@@ -2212,7 +1991,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 221,
 			"name": "miscarriage",
 			"oily": 1,
 			"dry": 1,
@@ -2222,7 +2000,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 222,
 			"name": "thoughtful",
 			"oily": 0,
 			"dry": 1,
@@ -2232,7 +2009,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 223,
 			"name": "exaggerate",
 			"oily": 1,
 			"dry": -1,
@@ -2242,7 +2018,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 224,
 			"name": "guerrilla",
 			"oily": -1,
 			"dry": -1,
@@ -2252,7 +2027,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 225,
 			"name": "legislation",
 			"oily": 1,
 			"dry": -1,
@@ -2262,7 +2036,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 226,
 			"name": "interrupt",
 			"oily": 0,
 			"dry": 0,
@@ -2272,7 +2045,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 227,
 			"name": "leadership",
 			"oily": 0,
 			"dry": -1,
@@ -2282,7 +2054,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 228,
 			"name": "discipline",
 			"oily": -1,
 			"dry": 1,
@@ -2292,7 +2063,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 229,
 			"name": "intention",
 			"oily": -1,
 			"dry": 1,
@@ -2302,7 +2072,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 230,
 			"name": "champagne",
 			"oily": -1,
 			"dry": -1,
@@ -2312,7 +2081,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 231,
 			"name": "beginning",
 			"oily": 1,
 			"dry": 1,
@@ -2322,7 +2090,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 232,
 			"name": "permanent",
 			"oily": -1,
 			"dry": 1,
@@ -2332,7 +2099,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 233,
 			"name": "representative",
 			"oily": 0,
 			"dry": 1,
@@ -2342,7 +2108,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 234,
 			"name": "selection",
 			"oily": 0,
 			"dry": 0,
@@ -2352,7 +2117,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 235,
 			"name": "temperature",
 			"oily": 1,
 			"dry": -1,
@@ -2362,7 +2126,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 236,
 			"name": "electronics",
 			"oily": 0,
 			"dry": 1,
@@ -2372,7 +2135,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 237,
 			"name": "inflation",
 			"oily": 0,
 			"dry": 0,
@@ -2382,7 +2144,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 238,
 			"name": "management",
 			"oily": 0,
 			"dry": 1,
@@ -2392,7 +2153,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 239,
 			"name": "inspector",
 			"oily": -1,
 			"dry": 1,
@@ -2402,7 +2162,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 240,
 			"name": "goalkeeper",
 			"oily": 0,
 			"dry": 0,
@@ -2412,7 +2171,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 241,
 			"name": "expansion",
 			"oily": 1,
 			"dry": 0,
@@ -2422,7 +2180,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 242,
 			"name": "performance",
 			"oily": -1,
 			"dry": 0,
@@ -2432,7 +2189,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 243,
 			"name": "introduce",
 			"oily": -1,
 			"dry": 0,
@@ -2442,7 +2198,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 244,
 			"name": "understanding",
 			"oily": 1,
 			"dry": 1,
@@ -2452,7 +2207,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 245,
 			"name": "breakfast",
 			"oily": 1,
 			"dry": 0,
@@ -2462,7 +2216,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 246,
 			"name": "headquarters",
 			"oily": 0,
 			"dry": 1,
@@ -2472,7 +2225,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 247,
 			"name": "brilliance",
 			"oily": 1,
 			"dry": 1,
@@ -2482,7 +2234,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 248,
 			"name": "reconcile",
 			"oily": 0,
 			"dry": 1,
@@ -2492,7 +2243,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 249,
 			"name": "nonremittal",
 			"oily": 0,
 			"dry": -1,
@@ -2502,7 +2252,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 250,
 			"name": "chimpanzee",
 			"oily": 0,
 			"dry": 1,
@@ -2512,7 +2261,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 251,
 			"name": "infrastructure",
 			"oily": 1,
 			"dry": 0,
@@ -2522,7 +2270,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 252,
 			"name": "knowledge",
 			"oily": -1,
 			"dry": 1,
@@ -2532,7 +2279,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 253,
 			"name": "decoration",
 			"oily": 0,
 			"dry": -1,
@@ -2542,7 +2288,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 254,
 			"name": "construct",
 			"oily": 0,
 			"dry": 0,
@@ -2552,7 +2297,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 255,
 			"name": "guideline",
 			"oily": 1,
 			"dry": 0,
@@ -2562,7 +2306,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 256,
 			"name": "vegetation",
 			"oily": -1,
 			"dry": -1,
@@ -2572,7 +2315,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 257,
 			"name": "definition",
 			"oily": -1,
 			"dry": -1,
@@ -2582,7 +2324,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 258,
 			"name": "exploration",
 			"oily": 1,
 			"dry": -1,
@@ -2592,7 +2333,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 259,
 			"name": "rehabilitation",
 			"oily": -1,
 			"dry": 1,
@@ -2602,7 +2342,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 260,
 			"name": "consolidate",
 			"oily": 0,
 			"dry": 1,
@@ -2612,7 +2351,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 261,
 			"name": "relinquish",
 			"oily": -1,
 			"dry": 0,
@@ -2622,7 +2360,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 262,
 			"name": "perception",
 			"oily": -1,
 			"dry": 1,
@@ -2632,7 +2369,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 263,
 			"name": "literature",
 			"oily": 1,
 			"dry": 0,
@@ -2642,7 +2378,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 264,
 			"name": "possession",
 			"oily": 0,
 			"dry": -1,
@@ -2652,7 +2387,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 265,
 			"name": "structure",
 			"oily": -1,
 			"dry": 1,
@@ -2662,7 +2396,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 266,
 			"name": "appearance",
 			"oily": 0,
 			"dry": 1,
@@ -2672,7 +2405,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 267,
 			"name": "horoscope",
 			"oily": 1,
 			"dry": 0,
@@ -2682,7 +2414,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 268,
 			"name": "reflection",
 			"oily": -1,
 			"dry": 1,
@@ -2692,7 +2423,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 269,
 			"name": "hypnothize",
 			"oily": 0,
 			"dry": 0,
@@ -2702,7 +2432,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 270,
 			"name": "adventure",
 			"oily": 1,
 			"dry": 0,
@@ -2712,7 +2441,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 271,
 			"name": "contraction",
 			"oily": 1,
 			"dry": -1,
@@ -2722,7 +2450,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 272,
 			"name": "responsible",
 			"oily": 1,
 			"dry": 0,
@@ -2732,7 +2459,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 273,
 			"name": "compensation",
 			"oily": -1,
 			"dry": -1,
@@ -2742,7 +2468,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 274,
 			"name": "earthquake",
 			"oily": 1,
 			"dry": -1,
@@ -2752,7 +2477,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 275,
 			"name": "captivate",
 			"oily": -1,
 			"dry": -1,
@@ -2762,7 +2486,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 276,
 			"name": "understand",
 			"oily": 1,
 			"dry": 0,
@@ -2772,7 +2495,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 277,
 			"name": "regulation",
 			"oily": -1,
 			"dry": 0,
@@ -2782,7 +2504,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 278,
 			"name": "conservative",
 			"oily": 0,
 			"dry": 0,
@@ -2792,7 +2513,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 279,
 			"name": "blue jean",
 			"oily": 1,
 			"dry": -1,
@@ -2802,7 +2522,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 280,
 			"name": "financial",
 			"oily": -1,
 			"dry": -1,
@@ -2812,7 +2531,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 281,
 			"name": "continental",
 			"oily": 1,
 			"dry": 0,
@@ -2822,7 +2540,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 282,
 			"name": "operation",
 			"oily": 0,
 			"dry": -1,
@@ -2832,7 +2549,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 283,
 			"name": "rebellion",
 			"oily": -1,
 			"dry": -1,
@@ -2842,7 +2558,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 284,
 			"name": "sensitive",
 			"oily": 1,
 			"dry": 1,
@@ -2852,7 +2567,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 285,
 			"name": "consultation",
 			"oily": 0,
 			"dry": -1,
@@ -2862,7 +2576,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 286,
 			"name": "neighborhood",
 			"oily": -1,
 			"dry": 0,
@@ -2872,7 +2585,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 287,
 			"name": "beneficiary",
 			"oily": -1,
 			"dry": 0,
@@ -2882,7 +2594,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 288,
 			"name": "confrontation",
 			"oily": 1,
 			"dry": 1,
@@ -2892,7 +2603,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 289,
 			"name": "straighten",
 			"oily": 0,
 			"dry": 1,
@@ -2902,7 +2612,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 290,
 			"name": "incentive",
 			"oily": -1,
 			"dry": 0,
@@ -2912,7 +2621,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 291,
 			"name": "gregarious",
 			"oily": -1,
 			"dry": 1,
@@ -2922,7 +2630,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 292,
 			"name": "characteristic",
 			"oily": 1,
 			"dry": 0,
@@ -2932,7 +2639,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 293,
 			"name": "demonstrate",
 			"oily": 0,
 			"dry": -1,
@@ -2942,7 +2648,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 294,
 			"name": "education",
 			"oily": 1,
 			"dry": -1,
@@ -2952,7 +2657,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 295,
 			"name": "freighter",
 			"oily": 1,
 			"dry": 0,
@@ -2962,7 +2666,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 296,
 			"name": "indication",
 			"oily": -1,
 			"dry": 0,
@@ -2972,7 +2675,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 297,
 			"name": "prosecute",
 			"oily": 1,
 			"dry": 1,
@@ -2982,7 +2684,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 298,
 			"name": "emergency",
 			"oily": 1,
 			"dry": 0,
@@ -2992,7 +2693,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 299,
 			"name": "computing",
 			"oily": -1,
 			"dry": 0,
@@ -3002,7 +2702,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 300,
 			"name": "dangerous",
 			"oily": -1,
 			"dry": -1,
@@ -3012,7 +2711,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 301,
 			"name": "eavesdrop",
 			"oily": 0,
 			"dry": 0,
@@ -3022,7 +2720,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 302,
 			"name": "experiment",
 			"oily": 1,
 			"dry": 0,
@@ -3032,7 +2729,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 303,
 			"name": "depressed",
 			"oily": 1,
 			"dry": 1,
@@ -3042,7 +2738,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 304,
 			"name": "defendant",
 			"oily": 0,
 			"dry": 0,
@@ -3052,7 +2747,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 305,
 			"name": "commission",
 			"oily": -1,
 			"dry": 0,
@@ -3062,7 +2756,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 306,
 			"name": "philosophy",
 			"oily": 0,
 			"dry": -1,
@@ -3072,7 +2765,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 307,
 			"name": "helicopter",
 			"oily": 1,
 			"dry": -1,
@@ -3082,7 +2774,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 308,
 			"name": "penetrate",
 			"oily": 1,
 			"dry": -1,
@@ -3092,7 +2783,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 309,
 			"name": "restoration",
 			"oily": 0,
 			"dry": 0,
@@ -3102,7 +2792,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 310,
 			"name": "competition",
 			"oily": -1,
 			"dry": 1,
@@ -3112,7 +2801,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 311,
 			"name": "sanctuary",
 			"oily": 0,
 			"dry": -1,
@@ -3122,7 +2810,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 312,
 			"name": "exclusive",
 			"oily": 1,
 			"dry": 0,
@@ -3132,7 +2819,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 313,
 			"name": "practical",
 			"oily": -1,
 			"dry": 0,
@@ -3142,7 +2828,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 314,
 			"name": "reservoir",
 			"oily": 1,
 			"dry": 1,
@@ -3152,7 +2837,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 315,
 			"name": "candidate",
 			"oily": -1,
 			"dry": -1,
@@ -3162,7 +2846,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 316,
 			"name": "anniversary",
 			"oily": 1,
 			"dry": -1,
@@ -3172,7 +2855,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 317,
 			"name": "mechanism",
 			"oily": 1,
 			"dry": 1,
@@ -3182,7 +2864,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 318,
 			"name": "provincial",
 			"oily": 0,
 			"dry": 0,
@@ -3192,7 +2873,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 319,
 			"name": "investment",
 			"oily": 0,
 			"dry": -1,
@@ -3202,7 +2882,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 320,
 			"name": "assignment",
 			"oily": 1,
 			"dry": 1,
@@ -3212,7 +2891,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 321,
 			"name": "conductor",
 			"oily": 1,
 			"dry": 0,
@@ -3222,7 +2900,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 322,
 			"name": "achievement",
 			"oily": -1,
 			"dry": 0,
@@ -3232,7 +2909,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 323,
 			"name": "conscience",
 			"oily": 1,
 			"dry": 1,
@@ -3242,7 +2918,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 324,
 			"name": "craftsman",
 			"oily": -1,
 			"dry": 0,
@@ -3252,7 +2927,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 325,
 			"name": "improvement",
 			"oily": -1,
 			"dry": 1,
@@ -3262,7 +2936,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 326,
 			"name": "notorious",
 			"oily": 1,
 			"dry": 0,
@@ -3272,7 +2945,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 327,
 			"name": "unpleasant",
 			"oily": 1,
 			"dry": 0,
@@ -3282,7 +2954,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 328,
 			"name": "assumption",
 			"oily": 1,
 			"dry": 0,
@@ -3292,7 +2963,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 329,
 			"name": "elaborate",
 			"oily": 0,
 			"dry": 1,
@@ -3302,7 +2972,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 330,
 			"name": "hypothesize",
 			"oily": 1,
 			"dry": 0,
@@ -3312,7 +2981,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 331,
 			"name": "discovery",
 			"oily": 0,
 			"dry": 0,
@@ -3322,7 +2990,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 332,
 			"name": "classroom",
 			"oily": -1,
 			"dry": 0,
@@ -3332,7 +2999,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 333,
 			"name": "difficulty",
 			"oily": 1,
 			"dry": 0,
@@ -3342,7 +3008,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 334,
 			"name": "convention",
 			"oily": -1,
 			"dry": 0,
@@ -3352,7 +3017,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 335,
 			"name": "reinforce",
 			"oily": -1,
 			"dry": 1,
@@ -3362,7 +3026,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 336,
 			"name": "publicity",
 			"oily": 1,
 			"dry": 1,
@@ -3372,7 +3035,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 337,
 			"name": "continuation",
 			"oily": 1,
 			"dry": -1,
@@ -3382,7 +3044,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 338,
 			"name": "isolation",
 			"oily": 1,
 			"dry": 0,
@@ -3392,7 +3053,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 339,
 			"name": "effective",
 			"oily": 0,
 			"dry": 1,
@@ -3402,7 +3062,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 340,
 			"name": "satellite",
 			"oily": 0,
 			"dry": 0,
@@ -3412,7 +3071,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 341,
 			"name": "apparatus",
 			"oily": 1,
 			"dry": -1,
@@ -3422,7 +3080,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 342,
 			"name": "decorative",
 			"oily": 1,
 			"dry": -1,
@@ -3432,7 +3089,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 343,
 			"name": "declaration",
 			"oily": 1,
 			"dry": -1,
@@ -3442,7 +3098,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 344,
 			"name": "performer",
 			"oily": 0,
 			"dry": -1,
@@ -3452,7 +3107,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 345,
 			"name": "particular",
 			"oily": 0,
 			"dry": -1,
@@ -3462,7 +3116,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 346,
 			"name": "contradiction",
 			"oily": 1,
 			"dry": 1,
@@ -3472,7 +3125,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 347,
 			"name": "concession",
 			"oily": 0,
 			"dry": 0,
@@ -3482,7 +3134,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 348,
 			"name": "hostility",
 			"oily": -1,
 			"dry": -1,
@@ -3492,7 +3143,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 349,
 			"name": "diplomatic",
 			"oily": -1,
 			"dry": 0,
@@ -3502,7 +3152,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 350,
 			"name": "willpower",
 			"oily": -1,
 			"dry": 0,
@@ -3512,7 +3161,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 351,
 			"name": "secretion",
 			"oily": -1,
 			"dry": 1,
@@ -3522,7 +3170,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 352,
 			"name": "treatment",
 			"oily": 0,
 			"dry": -1,
@@ -3532,7 +3179,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 353,
 			"name": "mathematics",
 			"oily": 0,
 			"dry": 1,
@@ -3542,7 +3188,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 354,
 			"name": "marketing",
 			"oily": 0,
 			"dry": -1,
@@ -3552,7 +3197,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 355,
 			"name": "admission",
 			"oily": 0,
 			"dry": 0,
@@ -3562,7 +3206,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 356,
 			"name": "wilderness",
 			"oily": 1,
 			"dry": 0,
@@ -3572,7 +3215,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 357,
 			"name": "index finger",
 			"oily": 0,
 			"dry": 1,
@@ -3582,7 +3224,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 358,
 			"name": "multimedia",
 			"oily": 0,
 			"dry": -1,
@@ -3592,7 +3233,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 359,
 			"name": "hemisphere",
 			"oily": -1,
 			"dry": 0,
@@ -3602,7 +3242,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 360,
 			"name": "advantage",
 			"oily": -1,
 			"dry": 0,
@@ -3612,7 +3251,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 361,
 			"name": "blackmail",
 			"oily": 1,
 			"dry": -1,
@@ -3622,7 +3260,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 362,
 			"name": "migration",
 			"oily": 0,
 			"dry": 0,
@@ -3632,7 +3269,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 363,
 			"name": "franchise",
 			"oily": 1,
 			"dry": 1,
@@ -3642,7 +3278,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 364,
 			"name": "fluctuation",
 			"oily": 0,
 			"dry": 0,
@@ -3652,7 +3287,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 365,
 			"name": "participate",
 			"oily": 0,
 			"dry": -1,
@@ -3662,7 +3296,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 366,
 			"name": "refrigerator",
 			"oily": -1,
 			"dry": 0,
@@ -3672,7 +3305,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 367,
 			"name": "influence",
 			"oily": -1,
 			"dry": -1,
@@ -3682,7 +3314,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 368,
 			"name": "acceptable",
 			"oily": 0,
 			"dry": 0,
@@ -3692,7 +3323,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 369,
 			"name": "suffering",
 			"oily": 1,
 			"dry": 1,
@@ -3702,7 +3332,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 370,
 			"name": "fisherman",
 			"oily": -1,
 			"dry": -1,
@@ -3712,7 +3341,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 371,
 			"name": "contribution",
 			"oily": 0,
 			"dry": 0,
@@ -3722,7 +3350,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 372,
 			"name": "excavation",
 			"oily": 0,
 			"dry": 0,
@@ -3732,7 +3359,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 373,
 			"name": "constitution",
 			"oily": 0,
 			"dry": 0,
@@ -3742,7 +3368,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 374,
 			"name": "celebration",
 			"oily": -1,
 			"dry": 1,
@@ -3752,7 +3377,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 375,
 			"name": "waterfall",
 			"oily": -1,
 			"dry": 1,
@@ -3762,7 +3386,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 376,
 			"name": "distributor",
 			"oily": 0,
 			"dry": -1,
@@ -3772,7 +3395,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 377,
 			"name": "disappear",
 			"oily": 1,
 			"dry": 1,
@@ -3782,7 +3404,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 378,
 			"name": "statement",
 			"oily": 0,
 			"dry": 0,
@@ -3792,7 +3413,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 379,
 			"name": "discrimination",
 			"oily": 1,
 			"dry": 1,
@@ -3802,7 +3422,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 380,
 			"name": "shareholder",
 			"oily": -1,
 			"dry": 0,
@@ -3812,7 +3431,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 381,
 			"name": "sensation",
 			"oily": 1,
 			"dry": 1,
@@ -3822,7 +3440,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 382,
 			"name": "illustrate",
 			"oily": 1,
 			"dry": 1,
@@ -3832,7 +3449,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 383,
 			"name": "dictionary",
 			"oily": 1,
 			"dry": 0,
@@ -3842,7 +3458,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 384,
 			"name": "attractive",
 			"oily": 1,
 			"dry": 1,
@@ -3852,7 +3467,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 385,
 			"name": "projection",
 			"oily": 0,
 			"dry": 0,
@@ -3862,7 +3476,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 386,
 			"name": "difference",
 			"oily": 0,
 			"dry": 1,
@@ -3872,7 +3485,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 387,
 			"name": "accountant",
 			"oily": -1,
 			"dry": -1,
@@ -3882,7 +3494,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 388,
 			"name": "vegetarian",
 			"oily": 0,
 			"dry": 1,
@@ -3892,7 +3503,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 389,
 			"name": "transmission",
 			"oily": -1,
 			"dry": 1,
@@ -3902,7 +3512,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 390,
 			"name": "appointment",
 			"oily": 0,
 			"dry": 0,
@@ -3912,7 +3521,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 391,
 			"name": "attachment",
 			"oily": -1,
 			"dry": -1,
@@ -3922,7 +3530,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 392,
 			"name": "artificial",
 			"oily": 0,
 			"dry": 0,
@@ -3932,7 +3539,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 393,
 			"name": "simplicity",
 			"oily": 1,
 			"dry": 0,
@@ -3942,7 +3548,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 394,
 			"name": "institution",
 			"oily": -1,
 			"dry": -1,
@@ -3952,7 +3557,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 395,
 			"name": "memorandum",
 			"oily": 0,
 			"dry": 1,
@@ -3962,7 +3566,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 396,
 			"name": "appreciate",
 			"oily": 1,
 			"dry": 0,
@@ -3972,7 +3575,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 397,
 			"name": "instrument",
 			"oily": -1,
 			"dry": -1,
@@ -3982,7 +3584,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 398,
 			"name": "relaxation",
 			"oily": 0,
 			"dry": -1,
@@ -3992,7 +3593,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 399,
 			"name": "parachute",
 			"oily": -1,
 			"dry": -1,
@@ -4002,7 +3602,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 400,
 			"name": "environment",
 			"oily": -1,
 			"dry": -1,
@@ -4012,7 +3611,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 401,
 			"name": "prejudice",
 			"oily": -1,
 			"dry": 1,
@@ -4022,7 +3620,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 402,
 			"name": "intermediate",
 			"oily": 0,
 			"dry": 0,
@@ -4032,7 +3629,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 403,
 			"name": "repetition",
 			"oily": -1,
 			"dry": 1,
@@ -4042,7 +3638,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 404,
 			"name": "secretary",
 			"oily": 0,
 			"dry": 1,
@@ -4052,7 +3647,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 405,
 			"name": "dimension",
 			"oily": 1,
 			"dry": 0,
@@ -4062,7 +3656,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 406,
 			"name": "engagement",
 			"oily": -1,
 			"dry": 1,
@@ -4072,7 +3665,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 407,
 			"name": "litigation",
 			"oily": -1,
 			"dry": 1,
@@ -4082,7 +3674,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 408,
 			"name": "recording",
 			"oily": 1,
 			"dry": -1,
@@ -4092,7 +3683,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 409,
 			"name": "quotation",
 			"oily": -1,
 			"dry": -1,
@@ -4102,7 +3692,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 410,
 			"name": "paragraph",
 			"oily": -1,
 			"dry": -1,
@@ -4112,7 +3701,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 411,
 			"name": "clearance",
 			"oily": 0,
 			"dry": 1,
@@ -4122,7 +3710,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 412,
 			"name": "broadcast",
 			"oily": 1,
 			"dry": 1,
@@ -4132,7 +3719,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 413,
 			"name": "experienced",
 			"oily": -1,
 			"dry": 0,
@@ -4142,7 +3728,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 414,
 			"name": "cultivate",
 			"oily": -1,
 			"dry": 1,
@@ -4152,7 +3737,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 415,
 			"name": "anticipation",
 			"oily": 0,
 			"dry": -1,
@@ -4162,7 +3746,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 416,
 			"name": "extraterrestrial",
 			"oily": -1,
 			"dry": -1,
@@ -4172,7 +3755,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 417,
 			"name": "recession",
 			"oily": 1,
 			"dry": 1,
@@ -4182,7 +3764,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 418,
 			"name": "correction",
 			"oily": 0,
 			"dry": 0,
@@ -4192,7 +3773,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 419,
 			"name": "short circuit",
 			"oily": -1,
 			"dry": -1,
@@ -4202,7 +3782,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 420,
 			"name": "discourage",
 			"oily": 1,
 			"dry": 0,
@@ -4212,7 +3791,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 421,
 			"name": "obligation",
 			"oily": -1,
 			"dry": -1,
@@ -4222,7 +3800,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 422,
 			"name": "spontaneous",
 			"oily": 1,
 			"dry": 0,
@@ -4232,7 +3809,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 423,
 			"name": "demonstration",
 			"oily": 0,
 			"dry": 1,
@@ -4242,7 +3818,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 424,
 			"name": "reduction",
 			"oily": -1,
 			"dry": -1,
@@ -4252,7 +3827,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 425,
 			"name": "preoccupation",
 			"oily": -1,
 			"dry": 0,
@@ -4262,7 +3836,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 426,
 			"name": "allowance",
 			"oily": 1,
 			"dry": -1,
@@ -4272,7 +3845,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 427,
 			"name": "formation",
 			"oily": 1,
 			"dry": -1,
@@ -4282,7 +3854,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 428,
 			"name": "expertise",
 			"oily": 1,
 			"dry": 1,
@@ -4292,7 +3863,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 429,
 			"name": "chemistry",
 			"oily": 0,
 			"dry": -1,
@@ -4302,7 +3872,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 430,
 			"name": "recognize",
 			"oily": 1,
 			"dry": -1,
@@ -4312,7 +3881,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 431,
 			"name": "discriminate",
 			"oily": 1,
 			"dry": 1,
@@ -4322,7 +3890,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 432,
 			"name": "favorable",
 			"oily": 0,
 			"dry": -1,
@@ -4332,7 +3899,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 433,
 			"name": "economist",
 			"oily": 1,
 			"dry": 1,
@@ -4342,7 +3908,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 434,
 			"name": "orchestra",
 			"oily": -1,
 			"dry": 0,
@@ -4352,7 +3917,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 435,
 			"name": "policeman",
 			"oily": -1,
 			"dry": -1,
@@ -4362,7 +3926,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 436,
 			"name": "eliminate",
 			"oily": 1,
 			"dry": 1,
@@ -4372,7 +3935,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 437,
 			"name": "confusion",
 			"oily": -1,
 			"dry": 0,
@@ -4382,7 +3944,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 438,
 			"name": "combination",
 			"oily": 0,
 			"dry": -1,
@@ -4392,7 +3953,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 439,
 			"name": "incredible",
 			"oily": 0,
 			"dry": 1,
@@ -4402,7 +3962,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 440,
 			"name": "mechanical",
 			"oily": -1,
 			"dry": 1,
@@ -4412,7 +3971,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 441,
 			"name": "domination",
 			"oily": 0,
 			"dry": -1,
@@ -4422,7 +3980,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 442,
 			"name": "withdrawal",
 			"oily": 0,
 			"dry": 0,
@@ -4432,7 +3989,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 443,
 			"name": "right wing",
 			"oily": -1,
 			"dry": -1,
@@ -4442,7 +3998,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 444,
 			"name": "compromise",
 			"oily": 0,
 			"dry": -1,
@@ -4452,7 +4007,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 445,
 			"name": "compartment",
 			"oily": 1,
 			"dry": -1,
@@ -4462,7 +4016,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 446,
 			"name": "different",
 			"oily": -1,
 			"dry": -1,
@@ -4472,7 +4025,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 447,
 			"name": "extension",
 			"oily": 1,
 			"dry": -1,
@@ -4482,7 +4034,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 448,
 			"name": "residence",
 			"oily": -1,
 			"dry": 0,
@@ -4492,7 +4043,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 449,
 			"name": "motivation",
 			"oily": 0,
 			"dry": 1,
@@ -4502,7 +4052,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 450,
 			"name": "transition",
 			"oily": 0,
 			"dry": 0,
@@ -4512,7 +4061,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 451,
 			"name": "correspondence",
 			"oily": -1,
 			"dry": -1,
@@ -4522,7 +4070,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 452,
 			"name": "complication",
 			"oily": -1,
 			"dry": 1,
@@ -4532,7 +4079,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 453,
 			"name": "supplementary",
 			"oily": -1,
 			"dry": 1,
@@ -4542,7 +4088,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 454,
 			"name": "precision",
 			"oily": -1,
 			"dry": 1,
@@ -4552,7 +4097,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 455,
 			"name": "disappointment",
 			"oily": 1,
 			"dry": 1,
@@ -4562,7 +4106,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 456,
 			"name": "excitement",
 			"oily": 1,
 			"dry": 1,
@@ -4572,7 +4115,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 457,
 			"name": "grandmother",
 			"oily": 1,
 			"dry": 0,
@@ -4582,7 +4124,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 458,
 			"name": "enthusiasm",
 			"oily": 0,
 			"dry": -1,
@@ -4592,7 +4133,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 459,
 			"name": "grandfather",
 			"oily": 1,
 			"dry": 0,
@@ -4602,7 +4142,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 460,
 			"name": "stimulation",
 			"oily": 1,
 			"dry": -1,
@@ -4612,7 +4151,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 461,
 			"name": "executrix",
 			"oily": 0,
 			"dry": -1,
@@ -4622,7 +4160,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 462,
 			"name": "personality",
 			"oily": 1,
 			"dry": 0,
@@ -4632,7 +4169,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 463,
 			"name": "application",
 			"oily": 1,
 			"dry": -1,
@@ -4642,7 +4178,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 464,
 			"name": "federation",
 			"oily": 0,
 			"dry": 0,
@@ -4652,7 +4187,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 465,
 			"name": "permission",
 			"oily": 1,
 			"dry": 1,
@@ -4662,7 +4196,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 466,
 			"name": "competence",
 			"oily": -1,
 			"dry": 0,
@@ -4672,7 +4205,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 467,
 			"name": "consumption",
 			"oily": -1,
 			"dry": 0,
@@ -4682,7 +4214,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 468,
 			"name": "pedestrian",
 			"oily": 0,
 			"dry": 1,
@@ -4692,7 +4223,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 469,
 			"name": "convenience",
 			"oily": 0,
 			"dry": -1,
@@ -4702,7 +4232,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 470,
 			"name": "conspiracy",
 			"oily": 1,
 			"dry": 0,
@@ -4712,7 +4241,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 471,
 			"name": "recommendation",
 			"oily": 1,
 			"dry": 1,
@@ -4722,7 +4250,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 472,
 			"name": "undermine",
 			"oily": -1,
 			"dry": 0,
@@ -4732,7 +4259,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 473,
 			"name": "publisher",
 			"oily": 0,
 			"dry": -1,
@@ -4742,7 +4268,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 474,
 			"name": "inappropriate",
 			"oily": -1,
 			"dry": 1,
@@ -4752,7 +4277,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 475,
 			"name": "president",
 			"oily": -1,
 			"dry": -1,
@@ -4762,7 +4286,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 476,
 			"name": "revolution",
 			"oily": 0,
 			"dry": 1,
@@ -4772,7 +4295,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 477,
 			"name": "researcher",
 			"oily": -1,
 			"dry": 0,
@@ -4782,7 +4304,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 478,
 			"name": "authorise",
 			"oily": 0,
 			"dry": -1,
@@ -4792,7 +4313,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 479,
 			"name": "wisecrack",
 			"oily": 1,
 			"dry": 1,
@@ -4802,7 +4322,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 480,
 			"name": "plagiarize",
 			"oily": -1,
 			"dry": 1,
@@ -4812,7 +4331,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 481,
 			"name": "experience",
 			"oily": -1,
 			"dry": 0,
@@ -4822,7 +4340,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 482,
 			"name": "nationalist",
 			"oily": 0,
 			"dry": 1,
@@ -4832,7 +4349,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 483,
 			"name": "offspring",
 			"oily": 0,
 			"dry": 1,
@@ -4842,7 +4358,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 484,
 			"name": "offensive",
 			"oily": 0,
 			"dry": 1,
@@ -4852,7 +4367,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 485,
 			"name": "attraction",
 			"oily": 0,
 			"dry": 0,
@@ -4862,7 +4376,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 486,
 			"name": "concentration",
 			"oily": 1,
 			"dry": 0,
@@ -4872,7 +4385,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 487,
 			"name": "housewife",
 			"oily": -1,
 			"dry": 0,
@@ -4882,7 +4394,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 488,
 			"name": "exemption",
 			"oily": 0,
 			"dry": 0,
@@ -4892,7 +4403,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 489,
 			"name": "circulation",
 			"oily": -1,
 			"dry": 0,
@@ -4902,7 +4412,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 490,
 			"name": "establish",
 			"oily": -1,
 			"dry": 1,
@@ -4912,7 +4421,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 491,
 			"name": "reluctance",
 			"oily": 0,
 			"dry": 1,
@@ -4922,7 +4430,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 492,
 			"name": "vegetable",
 			"oily": 1,
 			"dry": -1,
@@ -4932,7 +4439,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 493,
 			"name": "break down",
 			"oily": 1,
 			"dry": -1,
@@ -4942,7 +4448,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 494,
 			"name": "landscape",
 			"oily": 0,
 			"dry": -1,
@@ -4952,7 +4457,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 495,
 			"name": "incapable",
 			"oily": 0,
 			"dry": 1,
@@ -4962,7 +4466,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 496,
 			"name": "ignorance",
 			"oily": -1,
 			"dry": 0,
@@ -4972,7 +4475,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 497,
 			"name": "intelligence",
 			"oily": -1,
 			"dry": 0,
@@ -4982,7 +4484,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 498,
 			"name": "arrangement",
 			"oily": 0,
 			"dry": 1,
@@ -4992,7 +4493,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 499,
 			"name": "stereotype",
 			"oily": -1,
 			"dry": 0,
@@ -5002,7 +4502,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 500,
 			"name": "presidency",
 			"oily": 0,
 			"dry": 1,
@@ -5012,7 +4511,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 501,
 			"name": "community",
 			"oily": 0,
 			"dry": 1,
@@ -5022,7 +4520,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 502,
 			"name": "cooperation",
 			"oily": -1,
 			"dry": 0,
@@ -5032,7 +4529,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 503,
 			"name": "hospitality",
 			"oily": 0,
 			"dry": -1,
@@ -5042,7 +4538,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 504,
 			"name": "deviation",
 			"oily": -1,
 			"dry": 0,
@@ -5052,7 +4547,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 505,
 			"name": "fabricate",
 			"oily": -1,
 			"dry": 0,
@@ -5062,7 +4556,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 506,
 			"name": "guarantee",
 			"oily": 0,
 			"dry": 0,
@@ -5072,7 +4565,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 507,
 			"name": "comfortable",
 			"oily": -1,
 			"dry": 1,
@@ -5082,7 +4574,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 508,
 			"name": "attention",
 			"oily": -1,
 			"dry": 0,
@@ -5092,7 +4583,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 509,
 			"name": "biography",
 			"oily": 0,
 			"dry": 1,
@@ -5102,7 +4592,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 510,
 			"name": "qualification",
 			"oily": 1,
 			"dry": 1,
@@ -5112,7 +4601,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 511,
 			"name": "committee",
 			"oily": -1,
 			"dry": -1,
@@ -5122,7 +4610,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 512,
 			"name": "productive",
 			"oily": 0,
 			"dry": -1,
@@ -5132,7 +4619,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 513,
 			"name": "resolution",
 			"oily": -1,
 			"dry": 1,
@@ -5142,7 +4628,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 514,
 			"name": "professor",
 			"oily": 0,
 			"dry": -1,
@@ -5152,7 +4637,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 515,
 			"name": "examination",
 			"oily": 1,
 			"dry": -1,
@@ -5162,7 +4646,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 516,
 			"name": "perforate",
 			"oily": 1,
 			"dry": 1,
@@ -5172,7 +4655,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 517,
 			"name": "announcement",
 			"oily": 0,
 			"dry": 1,
@@ -5182,7 +4664,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 518,
 			"name": "miserable",
 			"oily": 1,
 			"dry": 0,
@@ -5192,7 +4673,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 519,
 			"name": "gas pedal",
 			"oily": 1,
 			"dry": 1,
@@ -5202,7 +4682,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 520,
 			"name": "liability",
 			"oily": -1,
 			"dry": 0,
@@ -5212,7 +4691,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 521,
 			"name": "constituency",
 			"oily": 1,
 			"dry": 1,
@@ -5222,7 +4700,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 522,
 			"name": "hierarchy",
 			"oily": 0,
 			"dry": 1,
@@ -5232,7 +4709,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 523,
 			"name": "economics",
 			"oily": 1,
 			"dry": -1,
@@ -5242,7 +4718,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 524,
 			"name": "strikebreaker",
 			"oily": -1,
 			"dry": -1,
@@ -5252,7 +4727,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 525,
 			"name": "constellation",
 			"oily": 0,
 			"dry": -1,
@@ -5262,7 +4736,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 526,
 			"name": "superintendent",
 			"oily": 0,
 			"dry": 0,
@@ -5272,7 +4745,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 527,
 			"name": "reputation",
 			"oily": 0,
 			"dry": 1,
@@ -5282,7 +4754,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 528,
 			"name": "catalogue",
 			"oily": 0,
 			"dry": -1,
@@ -5292,7 +4763,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 529,
 			"name": "conglomerate",
 			"oily": 0,
 			"dry": 1,
@@ -5302,7 +4772,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 530,
 			"name": "prediction",
 			"oily": -1,
 			"dry": 0,
@@ -5312,7 +4781,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 531,
 			"name": "identification",
 			"oily": -1,
 			"dry": -1,
@@ -5322,7 +4790,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 532,
 			"name": "relationship",
 			"oily": 1,
 			"dry": -1,
@@ -5332,7 +4799,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 533,
 			"name": "sympathetic",
 			"oily": 0,
 			"dry": -1,
@@ -5342,7 +4808,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 534,
 			"name": "acquaintance",
 			"oily": 1,
 			"dry": -1,
@@ -5352,7 +4817,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 535,
 			"name": "intervention",
 			"oily": 0,
 			"dry": -1,
@@ -5362,7 +4826,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 536,
 			"name": "consensus",
 			"oily": -1,
 			"dry": 1,
@@ -5372,7 +4835,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 537,
 			"name": "manufacturer",
 			"oily": 1,
 			"dry": 0,
@@ -5382,7 +4844,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 538,
 			"name": "functional",
 			"oily": 1,
 			"dry": -1,
@@ -5392,7 +4853,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 539,
 			"name": "intensify",
 			"oily": -1,
 			"dry": -1,
@@ -5402,7 +4862,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 540,
 			"name": "authority",
 			"oily": 1,
 			"dry": -1,
@@ -5412,7 +4871,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 541,
 			"name": "interactive",
 			"oily": 0,
 			"dry": 1,
@@ -5422,7 +4880,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 542,
 			"name": "allocation",
 			"oily": 0,
 			"dry": 0,
@@ -5432,7 +4889,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 543,
 			"name": "overwhelm",
 			"oily": -1,
 			"dry": 0,
@@ -5442,7 +4898,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 544,
 			"name": "assessment",
 			"oily": -1,
 			"dry": 1,
@@ -5452,7 +4907,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 545,
 			"name": "insurance",
 			"oily": 1,
 			"dry": -1,
@@ -5462,7 +4916,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 546,
 			"name": "constitutional",
 			"oily": 1,
 			"dry": -1,
@@ -5472,7 +4925,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 547,
 			"name": "television",
 			"oily": 1,
 			"dry": 0,
@@ -5482,7 +4934,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 548,
 			"name": "implication",
 			"oily": 1,
 			"dry": 0,
@@ -5492,7 +4943,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 549,
 			"name": "automatic",
 			"oily": 0,
 			"dry": 0,
@@ -5502,7 +4952,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 550,
 			"name": "collection",
 			"oily": -1,
 			"dry": 0,
@@ -5512,7 +4961,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 551,
 			"name": "sensitivity",
 			"oily": 0,
 			"dry": 1,
@@ -5522,7 +4970,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 552,
 			"name": "retirement",
 			"oily": 0,
 			"dry": 0,
@@ -5532,7 +4979,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 553,
 			"name": "direction",
 			"oily": 1,
 			"dry": 1,
@@ -5542,7 +4988,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 554,
 			"name": "frequency",
 			"oily": 1,
 			"dry": 1,
@@ -5552,7 +4997,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 555,
 			"name": "interference",
 			"oily": 1,
 			"dry": -1,
@@ -5562,7 +5006,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 556,
 			"name": "negligence",
 			"oily": 0,
 			"dry": 0,
@@ -5572,7 +5015,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 557,
 			"name": "contemporary",
 			"oily": -1,
 			"dry": 0,
@@ -5582,7 +5024,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 558,
 			"name": "registration",
 			"oily": 0,
 			"dry": -1,
@@ -5592,7 +5033,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 559,
 			"name": "investigation",
 			"oily": 0,
 			"dry": -1,
@@ -5602,7 +5042,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 560,
 			"name": "inhabitant",
 			"oily": -1,
 			"dry": 0,
@@ -5612,7 +5051,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 561,
 			"name": "reference",
 			"oily": -1,
 			"dry": -1,
@@ -5622,7 +5060,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 562,
 			"name": "cooperate",
 			"oily": 1,
 			"dry": -1,
@@ -5632,7 +5069,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 563,
 			"name": "promotion",
 			"oily": 0,
 			"dry": 1,
@@ -5642,7 +5078,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 564,
 			"name": "rehearsal",
 			"oily": 0,
 			"dry": 1,
@@ -5652,7 +5087,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 565,
 			"name": "unanimous",
 			"oily": 1,
 			"dry": -1,
@@ -5662,7 +5096,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 566,
 			"name": "hypothesis",
 			"oily": -1,
 			"dry": 0,
@@ -5672,7 +5105,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 567,
 			"name": "entitlement",
 			"oily": 1,
 			"dry": -1,
@@ -5682,7 +5114,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 568,
 			"name": "concentrate",
 			"oily": 0,
 			"dry": -1,
@@ -5692,7 +5123,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 569,
 			"name": "incongruous",
 			"oily": -1,
 			"dry": -1,
@@ -5702,7 +5132,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 570,
 			"name": "technique",
 			"oily": 1,
 			"dry": 0,
@@ -5712,7 +5141,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 571,
 			"name": "nightmare",
 			"oily": 0,
 			"dry": 0,
@@ -5722,7 +5150,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 572,
 			"name": "convulsion",
 			"oily": -1,
 			"dry": -1,
@@ -5732,7 +5159,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 573,
 			"name": "brainstorm",
 			"oily": -1,
 			"dry": 0,
@@ -5742,7 +5168,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 574,
 			"name": "tournament",
 			"oily": 1,
 			"dry": 1,
@@ -5752,7 +5177,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 575,
 			"name": "coincidence",
 			"oily": 0,
 			"dry": 1,
@@ -5762,7 +5186,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 576,
 			"name": "expenditure",
 			"oily": 1,
 			"dry": -1,
@@ -5772,7 +5195,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 577,
 			"name": "deficiency",
 			"oily": 0,
 			"dry": -1,
@@ -5782,7 +5204,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 578,
 			"name": "entertainment",
 			"oily": 0,
 			"dry": 1,
@@ -5792,7 +5213,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 579,
 			"name": "disappoint",
 			"oily": -1,
 			"dry": 1,
@@ -5802,7 +5222,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 580,
 			"name": "recommend",
 			"oily": 0,
 			"dry": 0,
@@ -5812,7 +5231,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 581,
 			"name": "mastermind",
 			"oily": 1,
 			"dry": 0,
@@ -5822,7 +5240,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 582,
 			"name": "integration",
 			"oily": -1,
 			"dry": -1,
@@ -5832,7 +5249,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 583,
 			"name": "ghostwriter",
 			"oily": 1,
 			"dry": 1,
@@ -5842,7 +5258,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 584,
 			"name": "ambiguity",
 			"oily": 1,
 			"dry": 0,
@@ -5852,7 +5267,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 585,
 			"name": "integrity",
 			"oily": 0,
 			"dry": 1,
@@ -5862,7 +5276,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 586,
 			"name": "explosion",
 			"oily": 0,
 			"dry": 1,
@@ -5872,7 +5285,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 587,
 			"name": "observation",
 			"oily": -1,
 			"dry": 1,
@@ -5882,7 +5294,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 588,
 			"name": "continuous",
 			"oily": 1,
 			"dry": 0,
@@ -5892,7 +5303,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 589,
 			"name": "highlight",
 			"oily": 1,
 			"dry": -1,
@@ -5902,7 +5312,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 590,
 			"name": "corruption",
 			"oily": -1,
 			"dry": -1,
@@ -5912,7 +5321,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 591,
 			"name": "translate",
 			"oily": -1,
 			"dry": 1,
@@ -5922,7 +5330,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 592,
 			"name": "available",
 			"oily": 0,
 			"dry": -1,
@@ -5932,7 +5339,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 593,
 			"name": "infection",
 			"oily": -1,
 			"dry": -1,
@@ -5942,7 +5348,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 594,
 			"name": "information",
 			"oily": -1,
 			"dry": 1,
@@ -5952,7 +5357,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 595,
 			"name": "curriculum",
 			"oily": 0,
 			"dry": -1,
@@ -5962,7 +5366,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 596,
 			"name": "transport",
 			"oily": 0,
 			"dry": 0,
@@ -5972,7 +5375,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 597,
 			"name": "communication",
 			"oily": 1,
 			"dry": 1,
@@ -5982,7 +5384,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 598,
 			"name": "professional",
 			"oily": -1,
 			"dry": 1,
@@ -5992,7 +5393,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 599,
 			"name": "orientation",
 			"oily": 0,
 			"dry": -1,
@@ -6002,7 +5402,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 600,
 			"name": "aluminium",
 			"oily": 1,
 			"dry": 0,
@@ -6012,7 +5411,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 601,
 			"name": "salvation",
 			"oily": 0,
 			"dry": 1,
@@ -6022,7 +5420,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 602,
 			"name": "prosecution",
 			"oily": 1,
 			"dry": 1,
@@ -6032,7 +5429,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 603,
 			"name": "manufacture",
 			"oily": 1,
 			"dry": 0,
@@ -6042,7 +5438,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 604,
 			"name": "situation",
 			"oily": -1,
 			"dry": -1,
@@ -6052,7 +5447,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 605,
 			"name": "inhibition",
 			"oily": -1,
 			"dry": -1,
@@ -6062,7 +5456,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 606,
 			"name": "conference",
 			"oily": 1,
 			"dry": -1,
@@ -6072,7 +5465,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 607,
 			"name": "consciousness",
 			"oily": 0,
 			"dry": -1,
@@ -6082,7 +5474,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 608,
 			"name": "folk music",
 			"oily": 1,
 			"dry": 1,
@@ -6092,7 +5483,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 609,
 			"name": "variation",
 			"oily": 1,
 			"dry": 1,
@@ -6102,7 +5492,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 610,
 			"name": "first-hand",
 			"oily": -1,
 			"dry": 0,
@@ -6112,7 +5501,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 611,
 			"name": "association",
 			"oily": -1,
 			"dry": 0,
@@ -6122,7 +5510,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 612,
 			"name": "fireplace",
 			"oily": 1,
 			"dry": 1,
@@ -6132,7 +5519,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 613,
 			"name": "technology",
 			"oily": 1,
 			"dry": 0,
@@ -6142,7 +5528,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 614,
 			"name": "cathedral",
 			"oily": -1,
 			"dry": -1,
@@ -6152,7 +5537,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 615,
 			"name": "demonstrator",
 			"oily": 1,
 			"dry": 0,
@@ -6162,7 +5546,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 616,
 			"name": "salesperson",
 			"oily": -1,
 			"dry": 0,
@@ -6172,7 +5555,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 617,
 			"name": "evolution",
 			"oily": -1,
 			"dry": -1,
@@ -6182,7 +5564,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 618,
 			"name": "psychology",
 			"oily": 0,
 			"dry": 1,
@@ -6192,7 +5573,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 619,
 			"name": "criticism",
 			"oily": 0,
 			"dry": -1,
@@ -6202,7 +5582,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 620,
 			"name": "advertise",
 			"oily": -1,
 			"dry": -1,
@@ -6212,7 +5591,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 621,
 			"name": "hilarious",
 			"oily": 0,
 			"dry": 1,
@@ -6222,7 +5600,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 622,
 			"name": "prescription",
 			"oily": 1,
 			"dry": 1,
@@ -6232,7 +5609,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 623,
 			"name": "staircase",
 			"oily": -1,
 			"dry": 1,
@@ -6242,7 +5618,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 624,
 			"name": "execution",
 			"oily": 1,
 			"dry": 0,
@@ -6252,7 +5627,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 625,
 			"name": "conclusion",
 			"oily": 0,
 			"dry": -1,
@@ -6262,7 +5636,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 626,
 			"name": "dismissal",
 			"oily": -1,
 			"dry": 0,
@@ -6272,7 +5645,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 627,
 			"name": "proportion",
 			"oily": -1,
 			"dry": 1,
@@ -6282,7 +5654,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 628,
 			"name": "systematic",
 			"oily": 1,
 			"dry": -1,
@@ -6292,7 +5663,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 629,
 			"name": "therapist",
 			"oily": -1,
 			"dry": 0,
@@ -6302,7 +5672,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 630,
 			"name": "lifestyle",
 			"oily": 0,
 			"dry": -1,
@@ -6312,7 +5681,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 631,
 			"name": "astonishing",
 			"oily": 0,
 			"dry": -1,
@@ -6322,7 +5690,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 632,
 			"name": "atmosphere",
 			"oily": 1,
 			"dry": 0,
@@ -6332,7 +5699,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 633,
 			"name": "principle",
 			"oily": 1,
 			"dry": 0,
@@ -6342,7 +5708,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 634,
 			"name": "determine",
 			"oily": -1,
 			"dry": 0,
@@ -6352,7 +5717,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 635,
 			"name": "disagreement",
 			"oily": 0,
 			"dry": -1,
@@ -6362,7 +5726,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 636,
 			"name": "chalk",
 			"oily": 0,
 			"dry": 0,
@@ -6372,7 +5735,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 637,
 			"name": "deputy",
 			"oily": 1,
 			"dry": 0,
@@ -6382,7 +5744,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 638,
 			"name": "spider",
 			"oily": 0,
 			"dry": 0,
@@ -6392,7 +5753,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 639,
 			"name": "think",
 			"oily": 1,
 			"dry": 1,
@@ -6402,7 +5762,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 640,
 			"name": "lobby",
 			"oily": 1,
 			"dry": 1,
@@ -6412,7 +5771,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 641,
 			"name": "fade",
 			"oily": -1,
 			"dry": 1,
@@ -6422,7 +5780,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 642,
 			"name": "locate",
 			"oily": -1,
 			"dry": 1,
@@ -6432,7 +5789,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 643,
 			"name": "spray",
 			"oily": -1,
 			"dry": 0,
@@ -6442,7 +5798,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 644,
 			"name": "drift",
 			"oily": 0,
 			"dry": 0,
@@ -6452,7 +5807,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 645,
 			"name": "sun",
 			"oily": 1,
 			"dry": 0,
@@ -6462,7 +5816,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 646,
 			"name": "ignore",
 			"oily": -1,
 			"dry": -1,
@@ -6472,7 +5825,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 647,
 			"name": "seal",
 			"oily": -1,
 			"dry": 0,
@@ -6482,7 +5834,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 648,
 			"name": "noise",
 			"oily": 0,
 			"dry": 1,
@@ -6492,7 +5843,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 649,
 			"name": "reveal",
 			"oily": -1,
 			"dry": -1,
@@ -6502,7 +5852,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 650,
 			"name": "meet",
 			"oily": 1,
 			"dry": 0,
@@ -6512,7 +5861,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 651,
 			"name": "patent",
 			"oily": -1,
 			"dry": -1,
@@ -6522,7 +5870,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 652,
 			"name": "rebel",
 			"oily": -1,
 			"dry": 0,
@@ -6532,7 +5879,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 653,
 			"name": "maze",
 			"oily": -1,
 			"dry": 1,
@@ -6542,7 +5888,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 654,
 			"name": "mirror",
 			"oily": 1,
 			"dry": -1,
@@ -6552,7 +5897,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 655,
 			"name": "sailor",
 			"oily": 1,
 			"dry": 1,
@@ -6562,7 +5906,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 656,
 			"name": "vein",
 			"oily": -1,
 			"dry": -1,
@@ -6572,7 +5915,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 657,
 			"name": "spill",
 			"oily": -1,
 			"dry": -1,
@@ -6582,7 +5924,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 658,
 			"name": "salon",
 			"oily": 1,
 			"dry": 1,
@@ -6592,7 +5933,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 659,
 			"name": "tile",
 			"oily": -1,
 			"dry": 1,
@@ -6602,7 +5942,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 660,
 			"name": "robot",
 			"oily": 0,
 			"dry": -1,
@@ -6612,7 +5951,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 661,
 			"name": "far",
 			"oily": 0,
 			"dry": 1,
@@ -6622,7 +5960,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 662,
 			"name": "bubble",
 			"oily": 1,
 			"dry": 0,
@@ -6632,7 +5969,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 663,
 			"name": "answer",
 			"oily": 1,
 			"dry": 0,
@@ -6642,7 +5978,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 664,
 			"name": "award",
 			"oily": 1,
 			"dry": 0,
@@ -6652,7 +5987,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 665,
 			"name": "figure",
 			"oily": -1,
 			"dry": 0,
@@ -6662,7 +5996,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 666,
 			"name": "cash",
 			"oily": 0,
 			"dry": 0,
@@ -6672,7 +6005,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 667,
 			"name": "eagle",
 			"oily": 0,
 			"dry": 1,
@@ -6682,7 +6014,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 668,
 			"name": "chest",
 			"oily": 1,
 			"dry": -1,
@@ -6692,7 +6023,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 669,
 			"name": "crash",
 			"oily": -1,
 			"dry": 1,
@@ -6702,7 +6032,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 670,
 			"name": "loop",
 			"oily": 0,
 			"dry": 0,
@@ -6712,7 +6041,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 671,
 			"name": "kidnap",
 			"oily": 1,
 			"dry": -1,
@@ -6722,7 +6050,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 672,
 			"name": "wrong",
 			"oily": 1,
 			"dry": -1,
@@ -6732,7 +6059,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 673,
 			"name": "dip",
 			"oily": -1,
 			"dry": -1,
@@ -6742,7 +6068,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 674,
 			"name": "twin",
 			"oily": 0,
 			"dry": 0,
@@ -6752,7 +6077,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 675,
 			"name": "brag",
 			"oily": 0,
 			"dry": 1,
@@ -6762,7 +6086,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 676,
 			"name": "fairy",
 			"oily": 1,
 			"dry": 1,
@@ -6772,7 +6095,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 677,
 			"name": "weight",
 			"oily": 1,
 			"dry": -1,
@@ -6782,7 +6104,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 678,
 			"name": "temple",
 			"oily": 0,
 			"dry": 0,
@@ -6792,7 +6113,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 679,
 			"name": "proud",
 			"oily": 0,
 			"dry": 0,
@@ -6802,7 +6122,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 680,
 			"name": "camp",
 			"oily": -1,
 			"dry": 1,
@@ -6812,7 +6131,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 681,
 			"name": "wood",
 			"oily": 0,
 			"dry": 0,
@@ -6822,7 +6140,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 682,
 			"name": "clear",
 			"oily": 1,
 			"dry": 1,
@@ -6832,7 +6149,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 683,
 			"name": "bundle",
 			"oily": -1,
 			"dry": -1,
@@ -6842,7 +6158,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 684,
 			"name": "nose",
 			"oily": 0,
 			"dry": -1,
@@ -6852,7 +6167,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 685,
 			"name": "shadow",
 			"oily": -1,
 			"dry": -1,
@@ -6862,7 +6176,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 686,
 			"name": "cart",
 			"oily": -1,
 			"dry": -1,
@@ -6872,7 +6185,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 687,
 			"name": "cord",
 			"oily": -1,
 			"dry": 1,
@@ -6882,7 +6194,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 688,
 			"name": "ex",
 			"oily": 0,
 			"dry": -1,
@@ -6892,7 +6203,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 689,
 			"name": "firm",
 			"oily": -1,
 			"dry": -1,
@@ -6902,7 +6212,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 690,
 			"name": "reach",
 			"oily": 1,
 			"dry": -1,
@@ -6912,7 +6221,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 691,
 			"name": "learn",
 			"oily": 0,
 			"dry": -1,
@@ -6922,7 +6230,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 692,
 			"name": "output",
 			"oily": 1,
 			"dry": 1,
@@ -6932,7 +6239,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 693,
 			"name": "tail",
 			"oily": 0,
 			"dry": -1,
@@ -6942,7 +6248,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 694,
 			"name": "keep",
 			"oily": -1,
 			"dry": 1,
@@ -6952,7 +6257,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 695,
 			"name": "oven",
 			"oily": 0,
 			"dry": 0,
@@ -6962,7 +6266,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 696,
 			"name": "hour",
 			"oily": -1,
 			"dry": 1,
@@ -6972,7 +6275,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 697,
 			"name": "hall",
 			"oily": 0,
 			"dry": -1,
@@ -6982,7 +6284,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 698,
 			"name": "crude",
 			"oily": 0,
 			"dry": 0,
@@ -6992,7 +6293,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 699,
 			"name": "tough",
 			"oily": 0,
 			"dry": 0,
@@ -7002,7 +6302,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 700,
 			"name": "dark",
 			"oily": -1,
 			"dry": 1,
@@ -7012,7 +6311,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 701,
 			"name": "hike",
 			"oily": 1,
 			"dry": 1,
@@ -7022,7 +6320,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 702,
 			"name": "carrot",
 			"oily": 1,
 			"dry": -1,
@@ -7032,7 +6329,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 703,
 			"name": "bed",
 			"oily": 0,
 			"dry": 1,
@@ -7042,7 +6338,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 704,
 			"name": "beach",
 			"oily": 0,
 			"dry": 1,
@@ -7052,7 +6347,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 705,
 			"name": "slide",
 			"oily": 1,
 			"dry": -1,
@@ -7062,7 +6356,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 706,
 			"name": "piano",
 			"oily": 1,
 			"dry": 0,
@@ -7072,7 +6365,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 707,
 			"name": "swell",
 			"oily": 1,
 			"dry": -1,
@@ -7082,7 +6374,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 708,
 			"name": "coma",
 			"oily": -1,
 			"dry": 0,
@@ -7092,7 +6383,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 709,
 			"name": "late",
 			"oily": 1,
 			"dry": 1,
@@ -7102,7 +6392,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 710,
 			"name": "closed",
 			"oily": 1,
 			"dry": 1,
@@ -7112,7 +6401,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 711,
 			"name": "jockey",
 			"oily": 1,
 			"dry": 1,
@@ -7122,7 +6410,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 712,
 			"name": "throne",
 			"oily": 0,
 			"dry": 1,
@@ -7132,7 +6419,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 713,
 			"name": "snatch",
 			"oily": 0,
 			"dry": 1,
@@ -7142,7 +6428,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 714,
 			"name": "embark",
 			"oily": 1,
 			"dry": -1,
@@ -7152,7 +6437,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 715,
 			"name": "trench",
 			"oily": 1,
 			"dry": -1,
@@ -7162,7 +6446,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 716,
 			"name": "trip",
 			"oily": 1,
 			"dry": 0,
@@ -7172,7 +6455,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 717,
 			"name": "dairy",
 			"oily": -1,
 			"dry": 0,
@@ -7182,7 +6464,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 718,
 			"name": "tired",
 			"oily": 0,
 			"dry": 0,
@@ -7192,7 +6473,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 719,
 			"name": "duty",
 			"oily": 0,
 			"dry": -1,
@@ -7202,7 +6482,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 720,
 			"name": "burst",
 			"oily": 0,
 			"dry": -1,
@@ -7212,7 +6491,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 721,
 			"name": "safe",
 			"oily": -1,
 			"dry": -1,
@@ -7222,7 +6500,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 722,
 			"name": "waiter",
 			"oily": 0,
 			"dry": 1,
@@ -7232,7 +6509,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 723,
 			"name": "layer",
 			"oily": 1,
 			"dry": 1,
@@ -7242,7 +6518,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 724,
 			"name": "coal",
 			"oily": 0,
 			"dry": 1,
@@ -7252,7 +6527,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 725,
 			"name": "love",
 			"oily": -1,
 			"dry": -1,
@@ -7262,7 +6536,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 726,
 			"name": "jacket",
 			"oily": 1,
 			"dry": -1,
@@ -7272,7 +6545,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 727,
 			"name": "useful",
 			"oily": -1,
 			"dry": -1,
@@ -7282,7 +6554,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 728,
 			"name": "save",
 			"oily": -1,
 			"dry": 0,
@@ -7292,7 +6563,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 729,
 			"name": "frown",
 			"oily": 0,
 			"dry": 1,
@@ -7302,7 +6572,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 730,
 			"name": "breed",
 			"oily": -1,
 			"dry": 1,
@@ -7312,7 +6581,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 731,
 			"name": "bottom",
 			"oily": 0,
 			"dry": -1,
@@ -7322,7 +6590,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 732,
 			"name": "arrow",
 			"oily": 1,
 			"dry": 0,
@@ -7332,7 +6599,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 733,
 			"name": "shape",
 			"oily": 1,
 			"dry": 0,
@@ -7342,7 +6608,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 734,
 			"name": "home",
 			"oily": 1,
 			"dry": 0,
@@ -7352,7 +6617,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 735,
 			"name": "jet",
 			"oily": 0,
 			"dry": -1,
@@ -7362,7 +6626,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 736,
 			"name": "offer",
 			"oily": -1,
 			"dry": -1,
@@ -7372,7 +6635,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 737,
 			"name": "offset",
 			"oily": -1,
 			"dry": 0,
@@ -7382,7 +6644,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 738,
 			"name": "zone",
 			"oily": -1,
 			"dry": -1,
@@ -7392,7 +6653,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 739,
 			"name": "tiger",
 			"oily": 1,
 			"dry": -1,
@@ -7402,7 +6662,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 740,
 			"name": "agenda",
 			"oily": -1,
 			"dry": -1,
@@ -7412,7 +6671,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 741,
 			"name": "harsh",
 			"oily": 0,
 			"dry": 1,
@@ -7422,7 +6680,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 742,
 			"name": "like",
 			"oily": -1,
 			"dry": -1,
@@ -7432,7 +6689,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 743,
 			"name": "easy",
 			"oily": -1,
 			"dry": 1,
@@ -7442,7 +6698,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 744,
 			"name": "old",
 			"oily": -1,
 			"dry": 1,
@@ -7452,7 +6707,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 745,
 			"name": "mind",
 			"oily": 1,
 			"dry": 1,
@@ -7462,7 +6716,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 746,
 			"name": "just",
 			"oily": -1,
 			"dry": 1,
@@ -7472,7 +6725,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 747,
 			"name": "marsh",
 			"oily": -1,
 			"dry": 1,
@@ -7482,7 +6734,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 748,
 			"name": "course",
 			"oily": 0,
 			"dry": -1,
@@ -7492,7 +6743,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 749,
 			"name": "lamb",
 			"oily": 1,
 			"dry": 0,
@@ -7502,7 +6752,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 750,
 			"name": "ward",
 			"oily": 1,
 			"dry": 1,
@@ -7512,7 +6761,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 751,
 			"name": "cave",
 			"oily": 0,
 			"dry": 0,
@@ -7522,7 +6770,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 752,
 			"name": "pound",
 			"oily": 0,
 			"dry": 0,
@@ -7532,7 +6779,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 753,
 			"name": "pit",
 			"oily": -1,
 			"dry": 1,
@@ -7542,7 +6788,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 754,
 			"name": "policy",
 			"oily": -1,
 			"dry": -1,
@@ -7552,7 +6797,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 755,
 			"name": "eject",
 			"oily": -1,
 			"dry": 0,
@@ -7562,7 +6806,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 756,
 			"name": "crowd",
 			"oily": -1,
 			"dry": -1,
@@ -7572,7 +6815,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 757,
 			"name": "myth",
 			"oily": 1,
 			"dry": 0,
@@ -7582,7 +6824,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 758,
 			"name": "sex",
 			"oily": 1,
 			"dry": 0,
@@ -7592,7 +6833,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 759,
 			"name": "fraud",
 			"oily": 1,
 			"dry": -1,
@@ -7602,7 +6842,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 760,
 			"name": "pain",
 			"oily": 1,
 			"dry": -1,
@@ -7612,7 +6851,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 761,
 			"name": "insert",
 			"oily": 1,
 			"dry": -1,
@@ -7622,7 +6860,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 762,
 			"name": "tablet",
 			"oily": 0,
 			"dry": 1,
@@ -7632,7 +6869,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 763,
 			"name": "meadow",
 			"oily": -1,
 			"dry": 1,
@@ -7642,7 +6878,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 764,
 			"name": "calf",
 			"oily": -1,
 			"dry": -1,
@@ -7652,7 +6887,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 765,
 			"name": "pass",
 			"oily": -1,
 			"dry": 1,
@@ -7662,7 +6896,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 766,
 			"name": "embryo",
 			"oily": 0,
 			"dry": -1,
@@ -7672,7 +6905,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 767,
 			"name": "screw",
 			"oily": 1,
 			"dry": -1,
@@ -7682,7 +6914,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 768,
 			"name": "pastel",
 			"oily": 0,
 			"dry": 0,
@@ -7692,7 +6923,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 769,
 			"name": "aspect",
 			"oily": 0,
 			"dry": 0,
@@ -7702,7 +6932,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 770,
 			"name": "wait",
 			"oily": 1,
 			"dry": 0,
@@ -7712,7 +6941,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 771,
 			"name": "craft",
 			"oily": 1,
 			"dry": 1,
@@ -7722,7 +6950,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 772,
 			"name": "stock",
 			"oily": 1,
 			"dry": 1,
@@ -7732,7 +6959,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 773,
 			"name": "trial",
 			"oily": -1,
 			"dry": -1,
@@ -7742,7 +6968,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 774,
 			"name": "proof",
 			"oily": 1,
 			"dry": 0,
@@ -7752,7 +6977,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 775,
 			"name": "legend",
 			"oily": 0,
 			"dry": 0,
@@ -7762,7 +6986,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 776,
 			"name": "dump",
 			"oily": 1,
 			"dry": -1,
@@ -7772,7 +6995,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 777,
 			"name": "reduce",
 			"oily": 0,
 			"dry": 1,
@@ -7782,7 +7004,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 778,
 			"name": "sniff",
 			"oily": -1,
 			"dry": 1,
@@ -7792,7 +7013,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 779,
 			"name": "latest",
 			"oily": 0,
 			"dry": -1,
@@ -7802,7 +7022,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 780,
 			"name": "master",
 			"oily": 1,
 			"dry": 1,
@@ -7812,7 +7031,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 781,
 			"name": "clean",
 			"oily": 1,
 			"dry": 1,
@@ -7822,7 +7040,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 782,
 			"name": "injury",
 			"oily": 0,
 			"dry": -1,
@@ -7832,7 +7049,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 783,
 			"name": "thrust",
 			"oily": 0,
 			"dry": 0,
@@ -7842,7 +7058,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 784,
 			"name": "slant",
 			"oily": 0,
 			"dry": -1,
@@ -7852,7 +7067,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 785,
 			"name": "shock",
 			"oily": 0,
 			"dry": 0,
@@ -7862,7 +7076,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 786,
 			"name": "sister",
 			"oily": 1,
 			"dry": 0,
@@ -7872,7 +7085,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 787,
 			"name": "smile",
 			"oily": 0,
 			"dry": 1,
@@ -7882,7 +7094,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 788,
 			"name": "rank",
 			"oily": -1,
 			"dry": -1,
@@ -7892,7 +7103,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 789,
 			"name": "member",
 			"oily": 1,
 			"dry": 1,
@@ -7902,7 +7112,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 790,
 			"name": "voter",
 			"oily": 1,
 			"dry": 0,
@@ -7912,7 +7121,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 791,
 			"name": "halt",
 			"oily": 1,
 			"dry": 0,
@@ -7922,7 +7130,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 792,
 			"name": "will",
 			"oily": 0,
 			"dry": -1,
@@ -7932,7 +7139,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 793,
 			"name": "mature",
 			"oily": -1,
 			"dry": -1,
@@ -7942,7 +7148,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 794,
 			"name": "banner",
 			"oily": 1,
 			"dry": -1,
@@ -7952,7 +7157,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 795,
 			"name": "lesson",
 			"oily": -1,
 			"dry": 1,
@@ -7962,7 +7166,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 796,
 			"name": "fair",
 			"oily": 1,
 			"dry": 0,
@@ -7972,7 +7175,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 797,
 			"name": "drive",
 			"oily": 1,
 			"dry": 0,
@@ -7982,7 +7184,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 798,
 			"name": "insist",
 			"oily": 1,
 			"dry": 1,
@@ -7992,7 +7193,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 799,
 			"name": "gas",
 			"oily": -1,
 			"dry": -1,
@@ -8002,7 +7202,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 800,
 			"name": "manner",
 			"oily": 1,
 			"dry": -1,
@@ -8012,7 +7211,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 801,
 			"name": "freeze",
 			"oily": 0,
 			"dry": 1,
@@ -8022,7 +7220,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 802,
 			"name": "red",
 			"oily": 1,
 			"dry": 0,
@@ -8032,7 +7229,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 803,
 			"name": "solid",
 			"oily": 1,
 			"dry": -1,
@@ -8042,7 +7238,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 804,
 			"name": "tissue",
 			"oily": -1,
 			"dry": 1,
@@ -8052,7 +7247,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 805,
 			"name": "valley",
 			"oily": 1,
 			"dry": -1,
@@ -8062,7 +7256,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 806,
 			"name": "ensure",
 			"oily": 0,
 			"dry": 1,
@@ -8072,7 +7265,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 807,
 			"name": "barrel",
 			"oily": -1,
 			"dry": -1,
@@ -8082,7 +7274,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 808,
 			"name": "hobby",
 			"oily": 1,
 			"dry": 1,
@@ -8092,7 +7283,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 809,
 			"name": "efflux",
 			"oily": -1,
 			"dry": 0,
@@ -8102,7 +7292,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 810,
 			"name": "real",
 			"oily": 0,
 			"dry": 1,
@@ -8112,7 +7301,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 811,
 			"name": "social",
 			"oily": -1,
 			"dry": 1,
@@ -8122,7 +7310,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 812,
 			"name": "berry",
 			"oily": 1,
 			"dry": 0,
@@ -8132,7 +7319,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 813,
 			"name": "faith",
 			"oily": 0,
 			"dry": 0,
@@ -8142,7 +7328,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 814,
 			"name": "polite",
 			"oily": 1,
 			"dry": -1,
@@ -8152,7 +7337,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 815,
 			"name": "cell",
 			"oily": -1,
 			"dry": 1,
@@ -8162,7 +7346,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 816,
 			"name": "afford",
 			"oily": 0,
 			"dry": 0,
@@ -8172,7 +7355,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 817,
 			"name": "occupy",
 			"oily": 0,
 			"dry": -1,
@@ -8182,7 +7364,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 818,
 			"name": "sector",
 			"oily": 1,
 			"dry": 0,
@@ -8192,7 +7373,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 819,
 			"name": "runner",
 			"oily": 1,
 			"dry": -1,
@@ -8202,7 +7382,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 820,
 			"name": "tumour",
 			"oily": 0,
 			"dry": -1,
@@ -8212,7 +7391,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 821,
 			"name": "bang",
 			"oily": 0,
 			"dry": -1,
@@ -8222,7 +7400,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 822,
 			"name": "Koran",
 			"oily": -1,
 			"dry": 0,
@@ -8232,7 +7409,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 823,
 			"name": "chief",
 			"oily": 0,
 			"dry": 1,
@@ -8242,7 +7418,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 824,
 			"name": "major",
 			"oily": 0,
 			"dry": 1,
@@ -8252,7 +7427,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 825,
 			"name": "behead",
 			"oily": -1,
 			"dry": 1,
@@ -8262,7 +7436,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 826,
 			"name": "spell",
 			"oily": 0,
 			"dry": 0,
@@ -8272,7 +7445,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 827,
 			"name": "beg",
 			"oily": 0,
 			"dry": 1,
@@ -8282,7 +7454,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 828,
 			"name": "well",
 			"oily": -1,
 			"dry": -1,
@@ -8292,7 +7463,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 829,
 			"name": "door",
 			"oily": 1,
 			"dry": 1,
@@ -8302,7 +7472,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 830,
 			"name": "flock",
 			"oily": -1,
 			"dry": 1,
@@ -8312,7 +7481,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 831,
 			"name": "native",
 			"oily": -1,
 			"dry": 1,
@@ -8322,7 +7490,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 832,
 			"name": "crime",
 			"oily": -1,
 			"dry": 0,
@@ -8332,7 +7499,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 833,
 			"name": "jungle",
 			"oily": 1,
 			"dry": -1,
@@ -8342,7 +7508,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 834,
 			"name": "palm",
 			"oily": 0,
 			"dry": 1,
@@ -8352,7 +7517,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 835,
 			"name": "notice",
 			"oily": 0,
 			"dry": -1,
@@ -8362,7 +7526,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 836,
 			"name": "depend",
 			"oily": -1,
 			"dry": -1,
@@ -8372,7 +7535,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 837,
 			"name": "system",
 			"oily": 1,
 			"dry": 0,
@@ -8382,7 +7544,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 838,
 			"name": "touch",
 			"oily": 1,
 			"dry": -1,
@@ -8392,7 +7553,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 839,
 			"name": "garlic",
 			"oily": -1,
 			"dry": 1,
@@ -8402,7 +7562,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 840,
 			"name": "set",
 			"oily": 1,
 			"dry": -1,
@@ -8412,7 +7571,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 841,
 			"name": "shout",
 			"oily": -1,
 			"dry": -1,
@@ -8422,7 +7580,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 842,
 			"name": "orange",
 			"oily": 1,
 			"dry": 1,
@@ -8432,7 +7589,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 843,
 			"name": "hard",
 			"oily": -1,
 			"dry": 1,
@@ -8442,7 +7598,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 844,
 			"name": "spoil",
 			"oily": 0,
 			"dry": 0,
@@ -8452,7 +7607,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 845,
 			"name": "manage",
 			"oily": 1,
 			"dry": 0,
@@ -8462,7 +7616,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 846,
 			"name": "metal",
 			"oily": 1,
 			"dry": 1,
@@ -8472,7 +7625,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 847,
 			"name": "stuff",
 			"oily": 0,
 			"dry": 0,
@@ -8482,7 +7634,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 848,
 			"name": "groan",
 			"oily": 1,
 			"dry": 1,
@@ -8492,7 +7643,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 849,
 			"name": "girl",
 			"oily": 1,
 			"dry": 0,
@@ -8502,7 +7652,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 850,
 			"name": "opera",
 			"oily": -1,
 			"dry": 0,
@@ -8512,7 +7661,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 851,
 			"name": "tray",
 			"oily": 1,
 			"dry": 0,
@@ -8522,7 +7670,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 852,
 			"name": "grow",
 			"oily": 1,
 			"dry": 1,
@@ -8532,7 +7679,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 853,
 			"name": "art",
 			"oily": 1,
 			"dry": 0,
@@ -8542,7 +7688,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 854,
 			"name": "force",
 			"oily": 0,
 			"dry": 1,
@@ -8552,7 +7697,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 855,
 			"name": "novel",
 			"oily": 0,
 			"dry": -1,
@@ -8562,7 +7706,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 856,
 			"name": "second",
 			"oily": 0,
 			"dry": -1,
@@ -8572,7 +7715,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 857,
 			"name": "note",
 			"oily": 0,
 			"dry": 1,
@@ -8582,7 +7724,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 858,
 			"name": "brink",
 			"oily": -1,
 			"dry": 1,
@@ -8592,7 +7733,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 859,
 			"name": "split",
 			"oily": -1,
 			"dry": -1,
@@ -8602,7 +7742,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 860,
 			"name": "store",
 			"oily": -1,
 			"dry": -1,
@@ -8612,7 +7751,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 861,
 			"name": "unrest",
 			"oily": 0,
 			"dry": 0,
@@ -8622,7 +7760,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 862,
 			"name": "mole",
 			"oily": -1,
 			"dry": -1,
@@ -8632,7 +7769,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 863,
 			"name": "blind",
 			"oily": 1,
 			"dry": 1,
@@ -8642,7 +7778,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 864,
 			"name": "abuse",
 			"oily": 0,
 			"dry": -1,
@@ -8652,7 +7787,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 865,
 			"name": "wild",
 			"oily": 0,
 			"dry": 0,
@@ -8662,7 +7796,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 866,
 			"name": "Venus",
 			"oily": 1,
 			"dry": 0,
@@ -8672,7 +7805,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 867,
 			"name": "lion",
 			"oily": 1,
 			"dry": 1,
@@ -8682,7 +7814,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 868,
 			"name": "remain",
 			"oily": 1,
 			"dry": -1,
@@ -8692,7 +7823,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 869,
 			"name": "wolf",
 			"oily": -1,
 			"dry": 1,
@@ -8702,7 +7832,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 870,
 			"name": "tax",
 			"oily": -1,
 			"dry": 1,
@@ -8712,7 +7841,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 871,
 			"name": "sugar",
 			"oily": 1,
 			"dry": -1,
@@ -8722,7 +7850,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 872,
 			"name": "hear",
 			"oily": 0,
 			"dry": 1,
@@ -8732,7 +7859,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 873,
 			"name": "fever",
 			"oily": -1,
 			"dry": -1,
@@ -8742,7 +7868,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 874,
 			"name": "burn",
 			"oily": 0,
 			"dry": 1,
@@ -8752,7 +7877,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 875,
 			"name": "pack",
 			"oily": 1,
 			"dry": 0,
@@ -8762,7 +7886,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 876,
 			"name": "admit",
 			"oily": 1,
 			"dry": -1,
@@ -8772,7 +7895,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 877,
 			"name": "give",
 			"oily": 1,
 			"dry": -1,
@@ -8782,7 +7904,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 878,
 			"name": "slump",
 			"oily": -1,
 			"dry": 0,
@@ -8792,7 +7913,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 879,
 			"name": "beat",
 			"oily": 1,
 			"dry": -1,
@@ -8802,7 +7922,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 880,
 			"name": "stun",
 			"oily": -1,
 			"dry": 1,
@@ -8812,7 +7931,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 881,
 			"name": "hold",
 			"oily": 1,
 			"dry": -1,
@@ -8822,7 +7940,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 882,
 			"name": "record",
 			"oily": 1,
 			"dry": 0,
@@ -8832,7 +7949,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 883,
 			"name": "sheep",
 			"oily": -1,
 			"dry": 0,
@@ -8842,7 +7958,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 884,
 			"name": "tube",
 			"oily": 0,
 			"dry": 1,
@@ -8852,7 +7967,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 885,
 			"name": "band",
 			"oily": 1,
 			"dry": -1,
@@ -8862,7 +7976,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 886,
 			"name": "warn",
 			"oily": 1,
 			"dry": 1,
@@ -8872,7 +7985,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 887,
 			"name": "flat",
 			"oily": 1,
 			"dry": -1,
@@ -8882,7 +7994,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 888,
 			"name": "fence",
 			"oily": -1,
 			"dry": 0,
@@ -8892,7 +8003,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 889,
 			"name": "indoor",
 			"oily": 0,
 			"dry": 1,
@@ -8902,7 +8012,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 890,
 			"name": "buffet",
 			"oily": 1,
 			"dry": -1,
@@ -8912,7 +8021,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 891,
 			"name": "staff",
 			"oily": 0,
 			"dry": -1,
@@ -8922,7 +8030,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 892,
 			"name": "cold",
 			"oily": -1,
 			"dry": -1,
@@ -8932,7 +8039,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 893,
 			"name": "hang",
 			"oily": 1,
 			"dry": -1,
@@ -8942,7 +8048,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 894,
 			"name": "cinema",
 			"oily": 1,
 			"dry": 0,
@@ -8952,7 +8057,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 895,
 			"name": "planet",
 			"oily": 1,
 			"dry": 1,
@@ -8962,7 +8066,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 896,
 			"name": "mutual",
 			"oily": 0,
 			"dry": 0,
@@ -8972,7 +8075,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 897,
 			"name": "rider",
 			"oily": 1,
 			"dry": 1,
@@ -8982,7 +8084,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 898,
 			"name": "lease",
 			"oily": -1,
 			"dry": 0,
@@ -8992,7 +8093,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 899,
 			"name": "judge",
 			"oily": -1,
 			"dry": 0,
@@ -9002,7 +8102,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 900,
 			"name": "clerk",
 			"oily": 0,
 			"dry": 0,
@@ -9012,7 +8111,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 901,
 			"name": "hotdog",
 			"oily": 0,
 			"dry": 0,
@@ -9022,7 +8120,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 902,
 			"name": "ready",
 			"oily": 0,
 			"dry": -1,
@@ -9032,7 +8129,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 903,
 			"name": "stir",
 			"oily": 0,
 			"dry": 0,
@@ -9042,7 +8138,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 904,
 			"name": "bar",
 			"oily": 1,
 			"dry": 0,
@@ -9052,7 +8147,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 905,
 			"name": "rare",
 			"oily": 1,
 			"dry": 1,
@@ -9062,7 +8156,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 906,
 			"name": "show",
 			"oily": -1,
 			"dry": -1,
@@ -9072,7 +8165,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 907,
 			"name": "sip",
 			"oily": 1,
 			"dry": 1,
@@ -9082,7 +8174,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 908,
 			"name": "cheek",
 			"oily": 1,
 			"dry": 1,
@@ -9092,7 +8183,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 909,
 			"name": "handy",
 			"oily": 0,
 			"dry": 0,
@@ -9102,7 +8192,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 910,
 			"name": "morale",
 			"oily": 0,
 			"dry": 0,
@@ -9112,7 +8201,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 911,
 			"name": "fibre",
 			"oily": 1,
 			"dry": 0,
@@ -9122,7 +8210,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 912,
 			"name": "veil",
 			"oily": -1,
 			"dry": -1,
@@ -9132,7 +8219,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 913,
 			"name": "drawer",
 			"oily": 0,
 			"dry": 1,
@@ -9142,7 +8228,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 914,
 			"name": "sour",
 			"oily": 0,
 			"dry": 0,
@@ -9152,7 +8237,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 915,
 			"name": "thigh",
 			"oily": -1,
 			"dry": 1,
@@ -9162,7 +8246,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 916,
 			"name": "bet",
 			"oily": 1,
 			"dry": 1,
@@ -9172,7 +8255,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 917,
 			"name": "unique",
 			"oily": 1,
 			"dry": 0,
@@ -9182,7 +8264,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 918,
 			"name": "hill",
 			"oily": 1,
 			"dry": 0,
@@ -9192,7 +8273,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 919,
 			"name": "face",
 			"oily": 0,
 			"dry": -1,
@@ -9202,7 +8282,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 920,
 			"name": "bee",
 			"oily": -1,
 			"dry": 1,
@@ -9212,7 +8291,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 921,
 			"name": "quiet",
 			"oily": -1,
 			"dry": 0,
@@ -9222,7 +8300,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 922,
 			"name": "burial",
 			"oily": 1,
 			"dry": 1,
@@ -9232,7 +8309,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 923,
 			"name": "bloody",
 			"oily": -1,
 			"dry": 1,
@@ -9242,7 +8318,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 924,
 			"name": "grave",
 			"oily": 1,
 			"dry": -1,
@@ -9252,7 +8327,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 925,
 			"name": "sleeve",
 			"oily": -1,
 			"dry": -1,
@@ -9262,7 +8336,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 926,
 			"name": "head",
 			"oily": 0,
 			"dry": 0,
@@ -9272,7 +8345,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 927,
 			"name": "exit",
 			"oily": 1,
 			"dry": -1,
@@ -9282,7 +8354,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 928,
 			"name": "degree",
 			"oily": -1,
 			"dry": -1,
@@ -9292,7 +8363,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 929,
 			"name": "rotten",
 			"oily": 1,
 			"dry": 0,
@@ -9302,7 +8372,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 930,
 			"name": "frank",
 			"oily": -1,
 			"dry": 1,
@@ -9312,7 +8381,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 931,
 			"name": "apathy",
 			"oily": 0,
 			"dry": -1,
@@ -9322,7 +8390,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 932,
 			"name": "pie",
 			"oily": -1,
 			"dry": -1,
@@ -9332,7 +8399,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 933,
 			"name": "low",
 			"oily": 1,
 			"dry": 0,
@@ -9342,7 +8408,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 934,
 			"name": "shed",
 			"oily": 0,
 			"dry": 1,
@@ -9352,7 +8417,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 935,
 			"name": "defeat",
 			"oily": 0,
 			"dry": 1,
@@ -9362,7 +8426,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 936,
 			"name": "baby",
 			"oily": -1,
 			"dry": -1,
@@ -9372,7 +8435,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 937,
 			"name": "nail",
 			"oily": 1,
 			"dry": -1,
@@ -9382,7 +8444,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 938,
 			"name": "swipe",
 			"oily": 0,
 			"dry": -1,
@@ -9392,7 +8453,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 939,
 			"name": "truth",
 			"oily": 0,
 			"dry": 1,
@@ -9402,7 +8462,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 940,
 			"name": "sock",
 			"oily": -1,
 			"dry": 0,
@@ -9412,7 +8471,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 941,
 			"name": "tool",
 			"oily": 1,
 			"dry": -1,
@@ -9422,7 +8480,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 942,
 			"name": "morsel",
 			"oily": -1,
 			"dry": 1,
@@ -9432,7 +8489,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 943,
 			"name": "virgin",
 			"oily": -1,
 			"dry": -1,
@@ -9442,7 +8498,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 944,
 			"name": "root",
 			"oily": 0,
 			"dry": -1,
@@ -9452,7 +8507,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 945,
 			"name": "stress",
 			"oily": -1,
 			"dry": 1,
@@ -9462,7 +8516,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 946,
 			"name": "tract",
 			"oily": -1,
 			"dry": 0,
@@ -9472,7 +8525,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 947,
 			"name": "expand",
 			"oily": -1,
 			"dry": -1,
@@ -9482,7 +8534,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 948,
 			"name": "tasty",
 			"oily": 1,
 			"dry": 1,
@@ -9492,7 +8543,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 949,
 			"name": "area",
 			"oily": 0,
 			"dry": 0,
@@ -9502,7 +8552,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 950,
 			"name": "length",
 			"oily": -1,
 			"dry": 0,
@@ -9512,7 +8561,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 951,
 			"name": "candle",
 			"oily": 1,
 			"dry": 0,
@@ -9522,7 +8570,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 952,
 			"name": "desire",
 			"oily": 0,
 			"dry": 1,
@@ -9532,7 +8579,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 953,
 			"name": "cream",
 			"oily": 0,
 			"dry": 0,
@@ -9542,7 +8588,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 954,
 			"name": "folk",
 			"oily": 0,
 			"dry": 0,
@@ -9552,7 +8597,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 955,
 			"name": "liver",
 			"oily": 0,
 			"dry": -1,
@@ -9562,7 +8606,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 956,
 			"name": "sleep",
 			"oily": 1,
 			"dry": 1,
@@ -9572,7 +8615,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 957,
 			"name": "strain",
 			"oily": 0,
 			"dry": 1,
@@ -9582,7 +8624,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 958,
 			"name": "pat",
 			"oily": -1,
 			"dry": 0,
@@ -9592,7 +8633,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 959,
 			"name": "shine",
 			"oily": 0,
 			"dry": -1,
@@ -9602,7 +8642,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 960,
 			"name": "avenue",
 			"oily": 0,
 			"dry": 1,
@@ -9612,7 +8651,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 961,
 			"name": "bring",
 			"oily": 0,
 			"dry": 0,
@@ -9622,7 +8660,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 962,
 			"name": "cool",
 			"oily": -1,
 			"dry": 1,
@@ -9632,7 +8669,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 963,
 			"name": "code",
 			"oily": 1,
 			"dry": -1,
@@ -9642,7 +8678,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 964,
 			"name": "enter",
 			"oily": -1,
 			"dry": -1,
@@ -9652,7 +8687,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 965,
 			"name": "orgy",
 			"oily": 1,
 			"dry": 1,
@@ -9662,7 +8696,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 966,
 			"name": "heal",
 			"oily": -1,
 			"dry": 1,
@@ -9672,7 +8705,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 967,
 			"name": "leak",
 			"oily": 1,
 			"dry": -1,
@@ -9682,7 +8714,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 968,
 			"name": "have",
 			"oily": 0,
 			"dry": 1,
@@ -9692,7 +8723,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 969,
 			"name": "impact",
 			"oily": 0,
 			"dry": -1,
@@ -9702,7 +8732,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 970,
 			"name": "glass",
 			"oily": 0,
 			"dry": 1,
@@ -9712,7 +8741,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 971,
 			"name": "decade",
 			"oily": 1,
 			"dry": -1,
@@ -9722,7 +8750,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 972,
 			"name": "fame",
 			"oily": 1,
 			"dry": 1,
@@ -9732,7 +8759,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 973,
 			"name": "speech",
 			"oily": 1,
 			"dry": 1,
@@ -9742,7 +8768,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 974,
 			"name": "tribe",
 			"oily": 1,
 			"dry": -1,
@@ -9752,7 +8777,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 975,
 			"name": "utter",
 			"oily": -1,
 			"dry": 1,
@@ -9762,7 +8786,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 976,
 			"name": "swop",
 			"oily": -1,
 			"dry": -1,
@@ -9772,7 +8795,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 977,
 			"name": "disco",
 			"oily": -1,
 			"dry": 0,
@@ -9782,7 +8804,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 978,
 			"name": "safari",
 			"oily": 0,
 			"dry": 1,
@@ -9792,7 +8813,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 979,
 			"name": "shower",
 			"oily": 1,
 			"dry": -1,
@@ -9802,7 +8822,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 980,
 			"name": "merit",
 			"oily": 0,
 			"dry": -1,
@@ -9812,7 +8831,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 981,
 			"name": "suburb",
 			"oily": 1,
 			"dry": 0,
@@ -9822,7 +8840,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 982,
 			"name": "detail",
 			"oily": 1,
 			"dry": 1,
@@ -9832,7 +8849,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 983,
 			"name": "graze",
 			"oily": 1,
 			"dry": 1,
@@ -9842,7 +8858,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 984,
 			"name": "steak",
 			"oily": 0,
 			"dry": -1,
@@ -9852,7 +8867,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 985,
 			"name": "cancel",
 			"oily": 0,
 			"dry": 1,
@@ -9862,7 +8876,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 986,
 			"name": "album",
 			"oily": 1,
 			"dry": -1,
@@ -9872,7 +8885,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 987,
 			"name": "pace",
 			"oily": 1,
 			"dry": 0,
@@ -9882,7 +8894,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 988,
 			"name": "review",
 			"oily": 0,
 			"dry": 1,
@@ -9892,7 +8903,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 989,
 			"name": "list",
 			"oily": 1,
 			"dry": 0,
@@ -9902,7 +8912,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 990,
 			"name": "tear",
 			"oily": 0,
 			"dry": 0,
@@ -9912,7 +8921,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 991,
 			"name": "fold",
 			"oily": 0,
 			"dry": 1,
@@ -9922,7 +8930,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 992,
 			"name": "palace",
 			"oily": 0,
 			"dry": 0,
@@ -9932,7 +8939,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 993,
 			"name": "lonely",
 			"oily": -1,
 			"dry": -1,
@@ -9942,7 +8948,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 994,
 			"name": "appeal",
 			"oily": 0,
 			"dry": 0,
@@ -9952,7 +8957,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 995,
 			"name": "pillow",
 			"oily": 1,
 			"dry": 1,
@@ -9962,7 +8966,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 996,
 			"name": "belly",
 			"oily": -1,
 			"dry": 0,
@@ -9972,7 +8975,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 997,
 			"name": "buy",
 			"oily": -1,
 			"dry": 0,
@@ -9982,7 +8984,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 998,
 			"name": "hurt",
 			"oily": -1,
 			"dry": 0,
@@ -9992,7 +8993,6 @@
 	{
 		"model": "item.ingredient",
 		"fields": {
-			"id": 999,
 			"name": "habit",
 			"oily": 0,
 			"dry": 0,
