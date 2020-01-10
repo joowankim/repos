@@ -1,3 +1,3 @@
 web: gunicorn myapp.wsgi --log-file -
 migrate: python manage.py migrate --settings=myapp.settings.production
-seed: python manage.py loaddata myapp/item/fixtures/gender.json myapp/item/fixtures/item-data-refined.json  --settings=myapp.settings.local
+seed: python manage.py loaddata myapp/item/fixtures/gender.json myapp/item/fixtures/item-data-refined.json
