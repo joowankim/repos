@@ -63,9 +63,9 @@ def products_list(request):
         if category:
             kwargs['category'] = category
         if include_ingredient:
-            kwargs['ingredients__contains'] = include_ingredient
+            kwargs['ingredients__name'] = include_ingredient
         if exclude_ingredient:
-            exclude['ingredients__contains'] = exclude_ingredient
+            exclude['ingredients__name'] = exclude_ingredient
 
         queryset = Item.objects\
             .filter(**kwargs)\
