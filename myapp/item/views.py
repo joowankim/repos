@@ -1,59 +1,21 @@
-from django.shortcuts import render
 from rest_framework import status
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from rest_framework.pagination import PageNumberPagination
 
-from .models import Ingredient, Item, Included
+from .models import Item
 from .serializers import ProductsSerializer, ProductDetailSerializer, RecommProductsSerializer
-# from .serializers import IngredientSerializer, ItemSerializer, IncludedSerializer
-#
-# @api_view(['GET', 'POST'])
-# def ingredient_list(request):
-#     if request.method == 'GET':
-#         queryset = Ingredient.objects.all()
-#         serializer = IngredientSerializer(queryset, many=True)
-#         return Response(serializer.data)
-#
-#     elif request.method == 'POST':
-#         serializer = IngredientSerializer(data=request.data)
-#         if serializer.is_valid():
-#             serializer.save()
-#             return Response(serializer.data, status=status.HTTP_201_CREATE)
-#         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
-#
-# @api_view(['GET', 'PUT', 'DELETE'])
-# def ingredient_detail(request, pk):
-#     try:
-#         ingredient = Ingredient.objects.get(pk=pk)
-#     except Ingredient.DoesNotExist:
-#         return Response(status=status.HTTP_404_NOT_FOUND)
-#
-#     if request.method == 'GET':
-#         # print(ingredient)
-#         # print(type(ingredient))
-#         serializer = IngredientSerializer(ingredient)
-#         # print(serializer.data)
-#         serializer.data["name"] = 'ssss'
-#         # print(serializer.data)
-#         # print(type(serializer.data))
-#         return Response(serializer.data)
-#
-#     elif request.method == 'PUT':
-#         serializer = IngredientSerializer(ingredient, data=request.data)
-#         if serializer.is_valid():
-#             serializer.save()
-#             return Response(serializer.data)
-#         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
-#
-#     elif request.method == 'DELETE':
-#         ingredient.delete()
-#         return Response(status=status.HTTP_204_NO_CONTENT)
+
+def empty_view():
+    content = {'please type <skin_type> on URL': 'nothing to see here'}
+    return Response(content, status=status.HTTP_404_NOT_FOUND)
 
 @api_view(['GET'])
 def products_list(request):
     if request.method == 'GET':
         skin_type = request.GET.get('skin_type')
+        if not skin_type:
+            return empty_view()
         category = request.GET.get('category')
         exclude_ingredient = request.GET.get('exclude_ingredient')
         include_ingredient = request.GET.get('include_ingredient')
@@ -87,6 +49,8 @@ def products_list(request):
 def product_detail(request, id):
     if request.method == 'GET':
         skin_type = request.GET.get('skin_type')
+        if not skin_type:
+            return empty_view()
         product_detail = Item.objects.get(id=id)
         recomms = Item.objects.filter(category=product_detail.category).order_by('-'+skin_type, 'price')[:3]
 

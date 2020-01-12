@@ -24,6 +24,6 @@ urlpatterns = [
     # path('products/', item_views.ItemViewSet),
     # path('ingredients/', item_views.ingredient_list),
     # path('ingredients/<int:pk>/', item_views.ingredient_detail),
-    path('products/', item_views.products_list),
+    path('products', item_views.products_list),
     path('product/<int:id>', item_views.product_detail),
 ]
