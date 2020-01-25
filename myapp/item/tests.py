@@ -1,10 +1,11 @@
 from django.test import TestCase
+from django.db.models import Count
 from .models import Item
 from .serializers import ProductsSerializer, ProductDetailSerializer, RecommProductsSerializer
 
 class ProductListTest(TestCase):
     '''
-        skin_type, category, page, exclude_ingredient, include_ingredient
+    parameters: skin_type, category, page, exclude_ingredient, include_ingredient
     '''
     fixtures = ['item-data-refined.json', 'ingredient-data-refined.json']
 
@@ -41,14 +42,30 @@ class ProductListTest(TestCase):
 
     def test_products_order(self):
         response = self.client.get('/products?skin_type=oily')
-        products = Item.objects.all().order_by('-oily', 'price')[:50]
+        products = Item.objects.all().order_by('-oily', 'price')\
+            .annotate(count=Count('id'))\
+            .filter(count=1)[:50]
         serializer = ProductsSerializer(products, many=True)
         for i in range(50):
             self.assertDictEqual(response.data['results'][i], serializer.data[i])
 
+    def test_multiple_include(self):
+        response = self.client.get('/products?skin_type=oily&include_ingredient=challenge,unique')
+        products = Item.objects.filter(ingredients__in=['challenge', 'unique']).order_by('-oily', 'price').annotate(count=Count('id')).filter(count=2)
+        serializer = ProductsSerializer(products, many=True)
+        for i in range(len(serializer.data)):
+            self.assertDictEqual(response.data['results'][i], serializer.data[i])
+
+    def test_multiple_exclude(self):
+        response = self.client.get('/products?skin_type=oily&exclude_ingredient=challenge,unique')
+        products = Item.objects.all().exclude(ingredients__in=['challenge', 'unique']).order_by('-oily', 'price').annotate(count=Count('id')).filter(count=1)[:50]
+        serializer = ProductsSerializer(products, many=True)
+        for i in range(len(serializer.data)):
+            self.assertDictEqual(response.data['results'][i], serializer.data[i])
+
 class ProductDetailTest(TestCase):
     '''
-        id, skin_type
+    parameters: id, skin_type
     '''
     fixtures = ['item-data-refined.json', 'ingredient-data-refined.json']
 
